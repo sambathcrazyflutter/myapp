@@ -1,0 +1,21 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m4380.388 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m906.537 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m2.387 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.795 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m1483.496 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m7369.426 ms - 10289[0m
+output generated
+600041
+[0mDELETE /eightbasics/600041/delete [32m200 [0m2.282 ms - -[0m
+600064
+[0mDELETE /eightbasics/600064/delete [32m200 [0m1.530 ms - -[0m
+600065
+[0mDELETE /eightbasics/600065/delete [32m200 [0m1.118 ms - -[0m
+600066
+[0mDELETE /eightbasics/600066/delete [32m200 [0m1.088 ms - -[0m
+600069
+[0mDELETE /eightbasics/600069/delete [32m200 [0m1.131 ms - -[0m
+[0mGET / [32m200 [0m16.899 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m3621.258 ms - 1921[0m

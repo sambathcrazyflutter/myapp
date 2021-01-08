@@ -1,0 +1,32 @@
+db connected
+82020/09/012020/09/05
+[0mGET /getTimingDetails?category=8&from=2020/09/01&to=2020/09/05 [32m200 [0m906.852 ms - 706[0m
+output generated
+[0mGET /allcontacts [32m200 [0m1750.354 ms - 66770[0m
+output generated
+{ idUser: '24758', name: 'A1', initial: 'Z', phone: '+919850888880' }
+{ idUser: '24758', name: 'A2', initial: 'Z', phone: '+919850888880' }
+{ idUser: '25403', name: 'A3', initial: 'A', phone: '+917332416405' }
+[0mPOST /allcontacts [32m200 [0m323.443 ms - -[0m
+[0mGET /allcontacts [32m200 [0m1046.707 ms - 66926[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m59.575 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m37.068 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m136.893 ms - 25868[0m
+output generated
+[0mGET /allcontacts [32m200 [0m4.599 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m2.775 ms - 26[0m
+output generated
+[0mPOST /allcontacts [33m413 [0m4937.292 ms - 2019[0m
+{ idUser: '24758', name: 'A1', initial: 'Z', phone: '+919850888880' }
+{ idUser: '24758', name: 'A2', initial: 'Z', phone: '+919850888880' }
+{ idUser: '25403', name: 'A3', initial: 'A', phone: '+917332416405' }
+[0mPOST /allcontacts [32m200 [0m2.333 ms - -[0m
+[0mGET /allcontacts [32m200 [0m4.042 ms - 253[0m
+output generated
+[0mGET /allcontacts [32m200 [0m4.175 ms - 253[0m
+output generated
+[0mPOST /allcontacts [33m413 [0m89.297 ms - 2019[0m
+[0mGET / [32m200 [0m177.777 ms - 1087[0m

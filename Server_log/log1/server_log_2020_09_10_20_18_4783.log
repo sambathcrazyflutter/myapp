@@ -1,0 +1,298 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m185.135 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m129.319 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m61.858 ms - 1256[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m23.463 ms - 4049[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.271 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m62.867 ms - 431[0m
+output generated
+[0mGET /eightbasics/getDrList [32m200 [0m22.053 ms - 236[0m
+output generated
+[0mGET /allcontacts [32m200 [0m286.600 ms - 78217[0m
+output generated
+{
+  id: null,
+  idUser: '14753',
+  name: 'Aadhi',
+  initial: 'A',
+  phone: '709-209-7420',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m27.094 ms - -[0m
+{
+  id: null,
+  idUser: '14566',
+  name: 'Abinaya Scl New 2',
+  initial: 'A',
+  phone: '+917358461935',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.093 ms - -[0m
+{
+  id: null,
+  idUser: '14431',
+  name: 'Adithya Scl Csc',
+  initial: 'A',
+  phone: '+919940300065',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.681 ms - -[0m
+{
+  id: null,
+  idUser: '13919',
+  name: 'Ajith Kabadii 2',
+  initial: 'A',
+  phone: '+916369436053',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.537 ms - -[0m
+{
+  id: null,
+  idUser: '14368',
+  name: 'Akash Jio',
+  initial: 'A',
+  phone: '+918838567827',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.563 ms - -[0m
+{
+  id: null,
+  idUser: '14397',
+  name: 'Bhoopathi Civil Sit Raja',
+  initial: 'B',
+  phone: '+918098615248',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m6.820 ms - -[0m
+{
+  id: null,
+  idUser: '14303',
+  name: 'Bojanraj Old',
+  initial: 'B',
+  phone: '720-014-7829',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.653 ms - -[0m
+{
+  id: null,
+  idUser: '14243',
+  name: 'Buball Mama',
+  initial: 'B',
+  phone: '962-679-0832',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.352 ms - -[0m
+{
+  id: null,
+  idUser: '14810',
+  name: 'Cheraaa Civill',
+  initial: 'C',
+  phone: '+919677606766',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.413 ms - -[0m
+{
+  id: null,
+  idUser: '14217',
+  name: 'Dinesh sai EEE',
+  initial: 'D',
+  phone: '944-262-7247',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.392 ms - -[0m
+{
+  id: null,
+  idUser: '14279',
+  name: 'Gope2',
+  initial: 'G',
+  phone: '+918248207099',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.347 ms - -[0m
+{
+  id: null,
+  idUser: '14322',
+  name: 'Gopi Scl Arun',
+  initial: 'G',
+  phone: '+918681965374',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.092 ms - -[0m
+{
+  id: null,
+  idUser: '13896',
+  name: 'Gugan',
+  initial: 'G',
+  phone: '+918940520504',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.252 ms - -[0m
+{
+  id: null,
+  idUser: '14247',
+  name: 'Guna',
+  initial: 'G',
+  phone: '+918056740895',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.575 ms - -[0m
+{
+  id: null,
+  idUser: '14427',
+  name: 'Jayaram Ice Clg',
+  initial: 'J',
+  phone: '+917299296331',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.297 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.061 ms - -[0m
+[0mGET /relationship [32m200 [0m1463.534 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m4.148 ms - 4280[0m
+output generated
+[0mGET /details/detailList?name=Aadhi [32m200 [0m42.620 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m36.872 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m2.728 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m2.734 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m4.512 ms - 26[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.725 ms - 8[0m
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m3.014 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Aadhi [32m200 [0m83.320 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Aadhi [32m200 [0m109.246 ms - 139[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.652 ms - -[0m
+[0mGET /relationship [32m200 [0m1509.163 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m4.008 ms - 4073[0m
+output generated

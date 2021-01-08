@@ -1,0 +1,346 @@
+### login for user 
+
+POST http://localhost:4000/login
+Content-Type: application/json
+
+{
+    "username" : "sam"
+}
+
+
+
+
+### logout for user
+
+DELETE  http://localhost:4000/logout
+Content-Type: application/json
+
+{
+    "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2FtIiwiaWF0IjoxNjA5NjU2MzM2fQ.iXFGFTIM2405mMnozsluMoqwuUWYHU3Dv2X-JY1Fhf4"
+    
+    
+    }
+
+### refreshess access token for user
+
+
+POST http://localhost:4000/token
+Content-Type: application/json
+
+{
+    "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2FtIiwiaWF0IjoxNjA5NjU4NDc3LCJleHAiOjE2MDk2NTg1MDd9.WWUwrVCqMIGRW1hArsPCZkLE7P_kUYHvXV21Ou7tHNc" 
+  
+    }
+
+
+### verify access token for user
+
+
+GET http://localhost:4000/me
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2FtIiwiaWF0IjoxNjA5NjU4NzgyLCJleHAiOjE2MDk2NTg4MzJ9.NWdgNavmlg2XB5B13yax1swjimikP-2xWmddwh5Y6PI
+
+
+### get all contacts for user uid
+
+GET http://localhost:3000/allcontacts?uid=736c47e1770a6f9e04bd7fa9676228
+Content-Type: application/json
+
+### insert contacts for user uid
+POST http://localhost:3000/allcontacts
+Content-Type: application/json
+
+[{"uid":"736c47e1770a6f9e04bd7fa9676228","idUser":"24758","name":"Ameer Anna","initial":"Z","phone":"+919850889880"}
+
+,{"uid":"736c47e1770a6f9e04bd7fa9676228","idUser":"24758","name":"vijay machi","initial":"Z","phone":"+919850888880"}
+
+,{"uid":"736c47e1770a6f9e04bd7fa9676228","idUser":"25403","name":"Dia","initial":"A","phone":"+917332416405"}
+]
+
+
+### get callLog for user uid
+
+GET http://localhost:3000/calllog?uid=736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+### get details  for contact cid
+
+GET http://localhost:3000/details/detailList?cid=3c08494a2ad184f
+Content-Type: application/json
+
+
+
+### inser details  for contact cid
+
+POST http://localhost:3000/details/insertdetails
+Content-Type: application/json
+
+{
+    "cid" : "3c08494a2ad184f",
+    "name" : "Ganesh Durai 2",
+    "msg" : "hi 2021" ,
+    "problem" : "call",
+    "nextplan" : "call",
+    "place" : "call"
+
+}
+
+
+### update details  for contact cid
+
+PUT http://localhost:3000/details/updetails/228
+Content-Type: application/json
+
+{
+    "cid" : "3c08494a2ad184f",
+    "name" : "Ganesh Durai 2",
+    "msg" : "hi 2021 januarrys" ,
+    "problem" : "call",
+    "nextplan" : "call",
+    "place" : "call"
+
+}
+
+
+
+
+### get Goal from user uid
+
+GET http://localhost:3000/goal?goaltype=0&uid=736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+
+### insert Goal from user uid
+
+POST http://localhost:3000/goal
+Content-Type: application/json
+
+{
+"uid":"736c47e1770a6f9e04bd7fa9676227",
+"uv": 5,
+"plan": 5,
+"info":40,
+"parable":2,
+"business":2,
+"question":2,
+"twentyfist":2,
+"copycat":2,
+"dvd":3,
+"financial":1,
+"welcome":1,
+"qnet":1,
+"earning":"39000",
+"dream":"royal enfield",
+"week":1,
+"goal":1
+}
+
+
+### inser details  for contact cid
+
+POST  http://localhost:3000/one108/
+Content-Type: application/json
+
+{
+    "uid" : "736c47e1770a6f9e04bd7fa9676227",
+    "feeling" : "Ganesh Durai 2",
+    "knowledge" : "hi 2021" ,
+    "activity" : "call",
+    "nextdayplan" : "call",
+    "goal" : "call",
+    "nextdream" : "call"
+
+}
+
+### get profile  for contact cid
+
+GET http://localhost:3000/profile/3c08494a2ad184f
+Content-Type: application/json
+
+
+
+
+### insert profile  for contact cid
+
+POST http://localhost:3000/profile/3c08494a2ad184f
+Content-Type: application/json
+
+{
+    "name" : "Ganesh Durai 2",
+    "address" : "hi 2021" ,
+    "job" : "amazon delivery",
+    "sallery" : "call",
+    "family" : "call",
+    "country" : "call",
+    "state" : "call",
+    "place" : "call",
+     "dtime" : "call"
+
+}
+
+
+### update profile  for contact cid
+
+PUT http://localhost:3000/profile/3c08494a2ad184f
+Content-Type: application/json
+
+{
+    "name" : "Ganesh Durai 2",
+    "address" : "hi 2021" ,
+    "job" : "amazon delivery",
+    "sallery" : "updated",
+    "family" : "updated",
+    "country" : "updated",
+    "state" : "updated",
+    "place" : "updated",
+     "dtime" : "updated"
+
+}
+
+
+### get info   uid
+
+GET http://localhost:3000/eightbasics/getInfoList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+### get inwait  uid
+
+GET http://localhost:3000/eightbasics/getInwaitList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+### get plan  uid
+
+GET http://localhost:3000/eightbasics/getPlanList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+
+### get closer  uid
+
+GET http://localhost:3000/eightbasics/getCloserList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+
+### get dr  uid
+
+GET http://localhost:3000/eightbasics/getDrList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+
+### get rejected  uid
+
+GET http://localhost:3000/eightbasics/getRejectedList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+### insert 8basic  for contact cid
+
+POST http://localhost:3000/eightbasics/
+Content-Type: application/json
+
+{
+    "cid" : "84325bbe34f0033",
+    "basic" : 3 ,
+    "percentage" : "60"
+}
+
+
+### update 8basic  for contact cid
+
+PUT http://localhost:3000/eightbasics/
+Content-Type: application/json
+
+{
+    "cid" : "84325bbe34f0033",
+    "basic" : 2 ,
+    "percentage" : "40"
+}
+
+
+### Delete contact  using cid 
+DELETE  http://localhost:3000/eightbasics/84325bbe34f0033
+Content-Type: application/json
+
+
+
+
+### get  relationcontacts  using  uid
+
+GET http://localhost:3000/relationship/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+### insert all relationcontacts using cids array
+
+POST http://localhost:3000/relationship/
+Content-Type: application/json
+
+[
+    "d64d6a55b2fcddb",
+    "d64d6a55b2fcddb"
+    ]
+
+
+
+### get trackingdetails  using uid 
+GET  http://localhost:3000/getTrackingList/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+
+
+### get TimingDetails
+
+GET http://localhost:3000/getTimingDetails/736c47e1770a6f9e04bd7fa9676227
+Content-Type: application/json
+
+{
+   "from" : "2020-09-07 10:51:37.112549",
+    "to" : "2021-09-15 23:51:37.112549",
+     "category" : 9
+}
+
+
+
+###
+
+POST  http://localhost:3000/restore/t8basic
+Content-Type: application/json
+
+###
+
+POST  http://localhost:3000/restore/relation
+Content-Type: application/json
+
+
+
+###
+
+POST  http://localhost:3000/restore/callLog
+Content-Type: application/json
+
+
+
+###
+
+POST  http://localhost:3000/restore/contacts
+Content-Type: application/json
+
+
+###
+
+POST  http://localhost:3000/restore/profile
+Content-Type: application/json
+
+
+
+###
+
+POST  http://localhost:3000/restore/details
+Content-Type: application/json
+

@@ -1,0 +1,17 @@
+db connected
+82020/09/012020/09/05
+[0mGET /getTimingDetails?category=8&from=2020/09/01&to=2020/09/05 [32m200 [0m328.345 ms - 706[0m
+output generated
+[0mGET /relationship [32m200 [0m744.343 ms - 615[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.142 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.885 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.493 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.411 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.127 ms - -[0m
+[0mGET /relationship [32m200 [0m1828.158 ms - 615[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m59.581 ms - 27536[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.311 ms - -[0m
+[0mPOST /relationship [32m200 [0m42.475 ms - -[0m

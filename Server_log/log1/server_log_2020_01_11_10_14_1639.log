@@ -1,0 +1,34 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m274.973 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.867 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m33.847 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m178.619 ms - 9497[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m399.927 ms - 270[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m110.596 ms - 26[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m121.712 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.905 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m4.978 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m12.132 ms - 9497[0m
+output generated
+[0mGET /profile/profileid?name=Jayaram+Ice+Clg [32m200 [0m129.391 ms - 217[0m
+output generated
+[0mGET /details/detailList?name=Jayaram+Ice+Clg [32m200 [0m149.033 ms - 194[0m
+output generated
+[0mGET /profile/profileid?name=Jayaram+Ice+Clg [32m200 [0m5.223 ms - 217[0m
+output generated
+[0mGET /details/detailList?name=Jayasurya+Ece2 [32m200 [0m3.785 ms - 149[0m
+[0mGET /profile/profileid?name=Jayasurya+Ece2 [32m200 [0m4.968 ms - 26[0m
+output generated
+output generated
+[0mPOST /relationship [32m200 [0m148.230 ms - -[0m
+[0mGET /relationship [32m200 [0m1935.923 ms - 26[0m
+output generated
+[0mGET / [32m200 [0m96.451 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m3413.799 ms - 1921[0m
+[0mGET / [32m200 [0m1.873 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m14.887 ms - 1921[0m

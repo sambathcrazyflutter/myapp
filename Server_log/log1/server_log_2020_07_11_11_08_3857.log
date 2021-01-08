@@ -1,0 +1,160 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m356.072 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.870 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m67.238 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m148.437 ms - 10701[0m
+output generated
+[0mPOST /relationship [32m200 [0m130.067 ms - -[0m
+[0mGET /relationship [32m200 [0m1183.680 ms - 26[0m
+output generated
+[0mGET /calllog [32m200 [0m39.448 ms - 23536[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m216.564 ms - 11939[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m80.614 ms - 11939[0m
+output generated
+[0mGET /details/detailList?name=Eee+Dilip+2 [32m200 [0m44.623 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m75.908 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m4.489 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m2.907 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m2.951 ms - 26[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.868 ms - 8[0m
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m4.085 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Eee+Dilip+2 [32m200 [0m3.429 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Eee+Dilip+2 [32m200 [0m37.452 ms - 153[0m
+output generated
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m3.394 ms - 251[0m
+output generated
+[0mGET /details/detailList?name=Aruna+Devi+Scl [32m200 [0m5.398 ms - 362[0m
+output generated
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m3.538 ms - 251[0m
+output generated
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m3.001 ms - 251[0m
+output generated
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m3.031 ms - 251[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.356 ms - 8[0m
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m2.976 ms - 251[0m
+output generated
+[0mGET /profile/profileid?name=Aruna+Devi+Scl [32m200 [0m3.865 ms - 251[0m
+output generated
+[0mGET /details/detailList?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.662 ms - 212[0m
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m4.623 ms - 198[0m
+output generated
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.960 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.087 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.047 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.019 ms - 198[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.335 ms - 8[0m
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m28.099 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Ganesh+Durai+2 [32m200 [0m3.436 ms - 26[0m
+[0mGET /details/detailList?name=Ganesh+Durai+2 [32m200 [0m5.471 ms - 26[0m
+output generated
+output generated
+[0mGET /profile/profileid?name=Ganesh+Durai+2 [32m200 [0m3.362 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Ganesh+Durai+2 [32m200 [0m2.789 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Ganesh+Durai+2 [32m200 [0m2.724 ms - 26[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m4.498 ms - 8[0m
+[0mGET /profile/profileid?name=Ganesh+Durai+2 [32m200 [0m2.753 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m3.063 ms - 285[0m
+output generated
+[0mGET /details/detailList?name=Bojan+Raj+Clg [32m200 [0m3.241 ms - 546[0m
+output generated
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m4.277 ms - 285[0m
+output generated
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m4.285 ms - 285[0m
+output generated
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m2.907 ms - 285[0m
+output generated
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m3.772 ms - 285[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.282 ms - 8[0m
+[0mGET /profile/profileid?name=Bojan+Raj+Clg [32m200 [0m2.951 ms - 285[0m
+output generated
+[0mGET /profile/profileid?name=Keethivasan+It+Sit [32m200 [0m39.716 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Keethivasan+It+Sit [32m200 [0m47.271 ms - 408[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m3.015 ms - 197[0m
+output generated
+[0mGET /details/detailList?name=Siva+Sai [32m200 [0m2.962 ms - 773[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.840 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.817 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.856 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.908 ms - 197[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m2.142 ms - 8[0m
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.778 ms - 197[0m
+output generated
+[0mGET /details/detailList?name=Siva+Sai [32m200 [0m3.039 ms - 886[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m3.240 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.580 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.829 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m3.909 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m2.801 ms - 197[0m
+output generated
+[0mPUT /details/updetails/247 [32m200 [0m3.687 ms - -[0m
+[0mGET /profile/profileid?name=Siva+Sai [32m200 [0m4.232 ms - 197[0m
+output generated
+[0mGET /details/detailList?name=Jai [32m200 [0m3.283 ms - 150[0m
+[0mGET /profile/profileid?name=Jai [32m200 [0m4.170 ms - 26[0m
+output generated
+output generated
+[0mGET /profile/profileid?name=Jai [32m200 [0m3.768 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Jai [32m200 [0m2.599 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Jai [32m200 [0m2.706 ms - 26[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.303 ms - 8[0m
+[0mGET /profile/profileid?name=Jai [32m200 [0m2.740 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m3.968 ms - 197[0m
+output generated
+[0mGET /details/detailList?name=katan+2+macha [32m200 [0m2.936 ms - 839[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.737 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.827 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.832 ms - 197[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m1.248 ms - 8[0m
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.975 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.915 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Akash+Jio [32m200 [0m12.198 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Akash+Jio [32m200 [0m66.673 ms - 26[0m
+output generated
+[0mGET / [32m200 [0m11.535 ms - 1087[0m
+[0mGET / [32m200 [0m3.634 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m2207.652 ms - 1921[0m

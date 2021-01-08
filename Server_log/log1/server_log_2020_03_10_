@@ -1,0 +1,396 @@
+db connected
+[0mPOST /relationship [32m200 [0m1290.526 ms - -[0m
+[0mGET /relationship [32m200 [0m9797.959 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m748.065 ms - 1643[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m650.696 ms - 23032[0m
+output generated
+[0mGET /calllog [32m200 [0m30.988 ms - 20404[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m12.131 ms - 23586[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m277.337 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m100.680 ms - 26[0m
+output generated
+12020-10-192020-10-04
+[0mGET /getTimingDetails?category=1&from=2020-10-19&to=2020-10-04 [32m200 [0m39.678 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m134.337 ms - 283[0m
+output generated
+22020-10-192020-10-04
+[0mGET /getTimingDetails?category=2&from=2020-10-19&to=2020-10-04 [32m200 [0m94.686 ms - 26[0m
+output generated
+82020-10-192020-10-04
+[0mGET /getTimingDetails?category=8&from=2020-10-19&to=2020-10-04 [32m200 [0m35.387 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m22.156 ms - 23586[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.226 ms - -[0m
+[0mGET /goal?goaltype=1 [32m200 [0m110.831 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m103.436 ms - 26[0m
+output generated
+[0mGET /relationship [32m200 [0m3042.448 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m13.715 ms - 23586[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m55.718 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m39.558 ms - 626[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m10.757 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.955 ms - 634[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.441 ms - -[0m
+[0mGET /eightbasics/getRejectedList [32m200 [0m4.461 ms - 1643[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m4.290 ms - 1643[0m
+output generated
+[0mGET /relationship [32m200 [0m2608.460 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m5.016 ms - 1643[0m
+output generated
+[0mGET /calllog [32m200 [0m8.978 ms - 20404[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m17.960 ms - 23586[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.640 ms - -[0m
+[0mGET /relationship [32m200 [0m3504.373 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m40.770 ms - 1643[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m3.833 ms - 1643[0m
+output generated
+[0mGET /calllog [32m200 [0m266.368 ms - 20404[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m161.187 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m102.694 ms - 26[0m
+output generated
+82020-10-012020-10-03
+[0mGET /getTimingDetails?category=8&from=2020-10-01&to=2020-10-03 [32m200 [0m50.903 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m102.496 ms - 283[0m
+output generated
+12020-10-012020-10-03
+[0mGET /getTimingDetails?category=1&from=2020-10-01&to=2020-10-03 [32m200 [0m3.870 ms - 850[0m
+output generated
+12020-09-012020-10-03
+[0mGET /getTimingDetails?category=1&from=2020-09-01&to=2020-10-03 [32m200 [0m9.223 ms - 17768[0m
+output generated
+62020-09-012020-10-03
+[0mGET /getTimingDetails?category=6&from=2020-09-01&to=2020-10-03 [32m200 [0m5.074 ms - 4771[0m
+output generated
+[0mGET /getTrackingList [0m- [0m- ms - -[0m
+22020-09-012020-10-03
+[0mGET /getTimingDetails?category=2&from=2020-09-01&to=2020-10-03 [32m200 [0m3.708 ms - 830[0m
+output generated
+[0mGET /getTrackingList [0m- [0m- ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m9.735 ms - 23586[0m
+output generated
+600427
+[0mDELETE /eightbasics/600427/delete [32m200 [0m1.352 ms - -[0m
+[0mGET /allcontacts [32m200 [0m185.636 ms - 81387[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.495 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m235.058 ms - 23381[0m
+output generated
+600431
+[0mDELETE /eightbasics/600431/delete [32m200 [0m0.954 ms - -[0m
+600444
+[0mDELETE /eightbasics/600444/delete [32m200 [0m0.991 ms - -[0m
+600445
+[0mDELETE /eightbasics/600445/delete [32m200 [0m0.997 ms - -[0m
+[0mGET /relationship [32m200 [0m6788.716 ms - 26[0m
+output generated
+600449
+[0mDELETE /eightbasics/600449/delete [32m200 [0m1.292 ms - -[0m
+600452
+[0mDELETE /eightbasics/600452/delete [32m200 [0m0.964 ms - -[0m
+600453
+[0mDELETE /eightbasics/600453/delete [32m200 [0m2.027 ms - -[0m
+600454
+[0mDELETE /eightbasics/600454/delete [32m200 [0m1.062 ms - -[0m
+600455
+[0mDELETE /eightbasics/600455/delete [32m200 [0m0.963 ms - -[0m
+600457
+[0mDELETE /eightbasics/600457/delete [32m200 [0m0.998 ms - -[0m
+600458
+[0mDELETE /eightbasics/600458/delete [32m200 [0m29.502 ms - -[0m
+600227
+[0mDELETE /eightbasics/600227/delete [32m200 [0m0.975 ms - -[0m
+600229
+[0mDELETE /eightbasics/600229/delete [32m200 [0m1.023 ms - -[0m
+600238
+[0mDELETE /eightbasics/600238/delete [32m200 [0m0.976 ms - -[0m
+600239
+[0mDELETE /eightbasics/600239/delete [32m200 [0m0.967 ms - -[0m
+600242
+[0mDELETE /eightbasics/600242/delete [32m200 [0m0.930 ms - -[0m
+600250
+[0mDELETE /eightbasics/600250/delete [32m200 [0m2.115 ms - -[0m
+600251
+[0mDELETE /eightbasics/600251/delete [32m200 [0m0.955 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.786 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m15.823 ms - 19925[0m
+output generated
+600266
+[0mDELETE /eightbasics/600266/delete [32m200 [0m0.916 ms - -[0m
+600275
+[0mDELETE /eightbasics/600275/delete [32m200 [0m0.927 ms - -[0m
+600276
+[0mDELETE /eightbasics/600276/delete [32m200 [0m0.988 ms - -[0m
+600281
+[0mDELETE /eightbasics/600281/delete [32m200 [0m0.955 ms - -[0m
+[0mGET /relationship [32m200 [0m6999.633 ms - 26[0m
+output generated
+600327
+[0mDELETE /eightbasics/600327/delete [32m200 [0m1.592 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.391 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m7.913 ms - 18919[0m
+output generated
+[0mGET /relationship [32m200 [0m7021.542 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.359 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m7.704 ms - 18919[0m
+output generated
+600338
+[0mDELETE /eightbasics/600338/delete [32m200 [0m0.880 ms - -[0m
+600340
+[0mDELETE /eightbasics/600340/delete [32m200 [0m0.909 ms - -[0m
+600331
+[0mDELETE /eightbasics/600331/delete [32m200 [0m0.957 ms - -[0m
+600290
+[0mDELETE /eightbasics/600290/delete [32m200 [0m0.991 ms - -[0m
+[0mGET /relationship [32m200 [0m6295.596 ms - 26[0m
+output generated
+600288
+[0mDELETE /eightbasics/600288/delete [32m200 [0m1.938 ms - -[0m
+600248
+[0mDELETE /eightbasics/600248/delete [32m200 [0m1.113 ms - -[0m
+600380
+[0mDELETE /eightbasics/600380/delete [32m200 [0m0.962 ms - -[0m
+600381
+[0mDELETE /eightbasics/600381/delete [32m200 [0m0.943 ms - -[0m
+600342
+[0mDELETE /eightbasics/600342/delete [32m200 [0m0.966 ms - -[0m
+600384
+[0mDELETE /eightbasics/600384/delete [32m200 [0m0.964 ms - -[0m
+600385
+[0mDELETE /eightbasics/600385/delete [32m200 [0m1.098 ms - -[0m
+600389
+[0mDELETE /eightbasics/600389/delete [32m200 [0m0.952 ms - -[0m
+600432
+[0mDELETE /eightbasics/600432/delete [32m200 [0m0.937 ms - -[0m
+600433
+[0mDELETE /eightbasics/600433/delete [32m200 [0m0.954 ms - -[0m
+600434
+[0mDELETE /eightbasics/600434/delete [32m200 [0m0.928 ms - -[0m
+600434
+[0mDELETE /eightbasics/600434/delete [32m200 [0m0.957 ms - -[0m
+600436
+[0mDELETE /eightbasics/600436/delete [32m200 [0m0.927 ms - -[0m
+600411
+[0mDELETE /eightbasics/600411/delete [32m200 [0m0.981 ms - -[0m
+600409
+[0mDELETE /eightbasics/600409/delete [32m200 [0m0.918 ms - -[0m
+600437
+[0mDELETE /eightbasics/600437/delete [32m200 [0m0.928 ms - -[0m
+600439
+[0mDELETE /eightbasics/600439/delete [32m200 [0m1.540 ms - -[0m
+600448
+[0mDELETE /eightbasics/600448/delete [32m200 [0m0.972 ms - -[0m
+600459
+[0mDELETE /eightbasics/600459/delete [32m200 [0m0.898 ms - -[0m
+600462
+[0mDELETE /eightbasics/600462/delete [32m200 [0m0.957 ms - -[0m
+600463
+[0mDELETE /eightbasics/600463/delete [32m200 [0m0.936 ms - -[0m
+600464
+[0mDELETE /eightbasics/600464/delete [32m200 [0m0.915 ms - -[0m
+600465
+[0mDELETE /eightbasics/600465/delete [32m200 [0m0.949 ms - -[0m
+600460
+[0mDELETE /eightbasics/600460/delete [32m200 [0m0.911 ms - -[0m
+600461
+[0mDELETE /eightbasics/600461/delete [32m200 [0m0.958 ms - -[0m
+600466
+[0mDELETE /eightbasics/600466/delete [32m200 [0m0.939 ms - -[0m
+600468
+[0mDELETE /eightbasics/600468/delete [32m200 [0m0.916 ms - -[0m
+600469
+[0mDELETE /eightbasics/600469/delete [32m200 [0m0.857 ms - -[0m
+600470
+[0mDELETE /eightbasics/600470/delete [32m200 [0m1.891 ms - -[0m
+600471
+[0mDELETE /eightbasics/600471/delete [32m200 [0m0.913 ms - -[0m
+600472
+[0mDELETE /eightbasics/600472/delete [32m200 [0m1.039 ms - -[0m
+600473
+[0mDELETE /eightbasics/600473/delete [32m200 [0m0.907 ms - -[0m
+600474
+[0mDELETE /eightbasics/600474/delete [32m200 [0m1.540 ms - -[0m
+600475
+[0mDELETE /eightbasics/600475/delete [32m200 [0m0.908 ms - -[0m
+600477
+[0mDELETE /eightbasics/600477/delete [32m200 [0m1.455 ms - -[0m
+600478
+[0mDELETE /eightbasics/600478/delete [32m200 [0m0.878 ms - -[0m
+600479
+[0mDELETE /eightbasics/600479/delete [32m200 [0m0.964 ms - -[0m
+600482
+[0mDELETE /eightbasics/600482/delete [32m200 [0m0.905 ms - -[0m
+600481
+[0mDELETE /eightbasics/600481/delete [32m200 [0m0.995 ms - -[0m
+600483
+[0mDELETE /eightbasics/600483/delete [32m200 [0m1.052 ms - -[0m
+600484
+[0mDELETE /eightbasics/600484/delete [32m200 [0m0.959 ms - -[0m
+600485
+[0mDELETE /eightbasics/600485/delete [32m200 [0m1.553 ms - -[0m
+600486
+[0mDELETE /eightbasics/600486/delete [32m200 [0m0.951 ms - -[0m
+600488
+[0mDELETE /eightbasics/600488/delete [32m200 [0m0.949 ms - -[0m
+600487
+[0mDELETE /eightbasics/600487/delete [32m200 [0m1.274 ms - -[0m
+600489
+[0mDELETE /eightbasics/600489/delete [32m200 [0m0.993 ms - -[0m
+600491
+[0mDELETE /eightbasics/600491/delete [32m200 [0m0.888 ms - -[0m
+600492
+[0mDELETE /eightbasics/600492/delete [32m200 [0m0.880 ms - -[0m
+600494
+[0mDELETE /eightbasics/600494/delete [32m200 [0m0.897 ms - -[0m
+600493
+[0mDELETE /eightbasics/600493/delete [32m200 [0m0.946 ms - -[0m
+600495
+[0mDELETE /eightbasics/600495/delete [32m200 [0m0.905 ms - -[0m
+600499
+[0mDELETE /eightbasics/600499/delete [32m200 [0m0.721 ms - -[0m
+600498
+[0mDELETE /eightbasics/600498/delete [32m200 [0m1.239 ms - -[0m
+600497
+[0mDELETE /eightbasics/600497/delete [32m200 [0m0.895 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.470 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m4.451 ms - 7380[0m
+output generated
+[0mGET /relationship [32m200 [0m4726.461 ms - 26[0m
+output generated
+600500
+[0mDELETE /eightbasics/600500/delete [32m200 [0m0.954 ms - -[0m
+600501
+[0mDELETE /eightbasics/600501/delete [32m200 [0m0.979 ms - -[0m
+600502
+[0mDELETE /eightbasics/600502/delete [32m200 [0m0.891 ms - -[0m
+600504
+[0mDELETE /eightbasics/600504/delete [32m200 [0m0.918 ms - -[0m
+600510
+[0mDELETE /eightbasics/600510/delete [32m200 [0m0.919 ms - -[0m
+600420
+[0mDELETE /eightbasics/600420/delete [32m200 [0m0.882 ms - -[0m
+600480
+[0mDELETE /eightbasics/600480/delete [32m200 [0m0.870 ms - -[0m
+600516
+[0mDELETE /eightbasics/600516/delete [32m200 [0m0.928 ms - -[0m
+600517
+[0mDELETE /eightbasics/600517/delete [32m200 [0m0.886 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.392 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m4.973 ms - 5556[0m
+output generated
+600518
+[0mDELETE /eightbasics/600518/delete [32m200 [0m0.920 ms - -[0m
+600397
+[0mDELETE /eightbasics/600397/delete [32m200 [0m0.857 ms - -[0m
+600521
+[0mDELETE /eightbasics/600521/delete [32m200 [0m0.927 ms - -[0m
+[0mGET /relationship [32m200 [0m5252.428 ms - 26[0m
+output generated
+600522
+[0mDELETE /eightbasics/600522/delete [32m200 [0m1.108 ms - -[0m
+600523
+[0mDELETE /eightbasics/600523/delete [32m200 [0m0.926 ms - -[0m
+600400
+[0mDELETE /eightbasics/600400/delete [32m200 [0m1.232 ms - -[0m
+600395
+[0mDELETE /eightbasics/600395/delete [32m200 [0m0.908 ms - -[0m
+600525
+[0mDELETE /eightbasics/600525/delete [32m200 [0m0.890 ms - -[0m
+600526
+[0mDELETE /eightbasics/600526/delete [32m200 [0m7.240 ms - -[0m
+600408
+[0mDELETE /eightbasics/600408/delete [32m200 [0m0.936 ms - -[0m
+600404
+[0mDELETE /eightbasics/600404/delete [32m200 [0m0.931 ms - -[0m
+600401
+[0mDELETE /eightbasics/600401/delete [32m200 [0m0.898 ms - -[0m
+600412
+[0mDELETE /eightbasics/600412/delete [32m200 [0m0.953 ms - -[0m
+600398
+[0mDELETE /eightbasics/600398/delete [32m200 [0m0.882 ms - -[0m
+600407
+[0mDELETE /eightbasics/600407/delete [32m200 [0m0.908 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.418 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.193 ms - 2489[0m
+output generated
+600417
+[0mDELETE /eightbasics/600417/delete [32m200 [0m1.027 ms - -[0m
+600414
+[0mDELETE /eightbasics/600414/delete [32m200 [0m0.949 ms - -[0m
+600419
+[0mDELETE /eightbasics/600419/delete [32m200 [0m1.980 ms - -[0m
+[0mGET /relationship [32m200 [0m6857.537 ms - 26[0m
+output generated
+600422
+[0mDELETE /eightbasics/600422/delete [32m200 [0m0.998 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.423 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.099 ms - 1679[0m
+output generated
+600425
+[0mDELETE /eightbasics/600425/delete [32m200 [0m0.904 ms - -[0m
+600429
+[0mDELETE /eightbasics/600429/delete [32m200 [0m0.908 ms - -[0m
+600430
+[0mDELETE /eightbasics/600430/delete [32m200 [0m1.729 ms - -[0m
+600438
+[0mDELETE /eightbasics/600438/delete [32m200 [0m0.751 ms - -[0m
+[0mGET /relationship [32m200 [0m7136.727 ms - 26[0m
+output generated
+600440
+[0mDELETE /eightbasics/600440/delete [32m200 [0m0.904 ms - -[0m
+600441
+[0mDELETE /eightbasics/600441/delete [32m200 [0m1.474 ms - -[0m
+600450
+[0mDELETE /eightbasics/600450/delete [32m200 [0m0.947 ms - -[0m
+600241
+[0mDELETE /eightbasics/600241/delete [32m200 [0m1.060 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.534 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.530 ms - 26[0m
+output generated
+[0mGET /relationship [32m200 [0m4220.239 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m466.354 ms - 81387[0m
+output generated
+[0mGET /allcontacts [32m200 [0m537.685 ms - 81387[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.430 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m2.878 ms - 626[0m
+[0mGET /eightbasics/getCloserList [32m200 [0m2.914 ms - 634[0m
+output generated
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m2.779 ms - 626[0m
+output generated
+[0mGET /details/detailList?name=katan+2+macha [32m200 [0m507.322 ms - 839[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m757.646 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=katan+2+macha [32m200 [0m2.807 ms - 197[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m700.473 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m2.571 ms - 26[0m
+output generated

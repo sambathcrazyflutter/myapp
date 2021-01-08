@@ -1,0 +1,102 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m61.073 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m75.154 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m14.019 ms - 9257[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m772.957 ms - 270[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m100.248 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m11.996 ms - 9257[0m
+output generated
+[0mPOST /relationship [32m200 [0m558.889 ms - -[0m
+[0mGET /eightbasics/getRejectedList [32m200 [0m7.749 ms - 3256[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m3894.621 ms - 12313[0m
+output generated
+[0mGET /relationship [32m200 [0m6484.988 ms - 26[0m
+output generated
+[0mGET /calllog [32m200 [0m16.934 ms - 23750[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m3.577 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.994 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m12.081 ms - 9043[0m
+output generated
+[0mGET /allcontacts [32m200 [0m101.833 ms - 75870[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m8.817 ms - 15538[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.322 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.265 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.333 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.226 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.177 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.147 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.157 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.125 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.145 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.221 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.129 ms - -[0m
+[0mGET /details/detailList?name=Ashiqe [32m200 [0m66.131 ms - 499[0m
+output generated
+[0mGET /profile/profileid?name=Ashiqe [32m200 [0m160.590 ms - 197[0m
+output generated
+[0mGET /profile/profileid?name=Ashiqe [32m200 [0m3.042 ms - 197[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.113 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.138 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.101 ms - -[0m
+[0mPOST /relationship [32m200 [0m6.003 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.114 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.063 ms - -[0m
+[0mGET /details/detailList?name=Sobin [32m200 [0m3.338 ms - 870[0m
+output generated
+[0mGET /profile/profileid?name=Sobin [32m200 [0m31.371 ms - 177[0m
+output generated
+[0mGET /profile/profileid?name=Sobin [32m200 [0m3.383 ms - 177[0m
+output generated
+[0mPOST /relationship [32m200 [0m5.074 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.093 ms - -[0m
+[0mPOST /relationship [32m200 [0m3.546 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.111 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.097 ms - -[0m
+[0mPOST /relationship [32m200 [0m5.264 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.075 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.092 ms - -[0m
+[0mPOST /relationship [32m200 [0m5.620 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.076 ms - -[0m
+[0mGET /eightbasics/get8basicLists [32m200 [0m5.774 ms - 10921[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m43.465 ms - 2083[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.842 ms - 223[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.549 ms - 26[0m
+output generated
+[0mGET /eightbasics/getDrList [32m200 [0m3.518 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m17.035 ms - -[0m
+[0mGET /relationship [32m200 [0m1478.073 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m70.301 ms - 2255[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m225.354 ms - 12313[0m
+output generated
+[0mGET /calllog [32m200 [0m67.180 ms - 25730[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m130.282 ms - 270[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m102.780 ms - 26[0m
+output generated
+12020-08-012020-11-20
+[0mGET /goal?goaltype=1 [32m200 [0m104.928 ms - 270[0m
+[0mGET /getTimingDetails?category=1&from=2020-08-01&to=2020-11-20 [32m200 [0m225.823 ms - 11517[0m
+output generated
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.326 ms - 6435[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.809 ms - 2083[0m
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.558 ms - -[0m

@@ -1,0 +1,325 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m421.326 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790989908 [32m200 [0m91.787 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m184.123 ms - 24818[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m6.998 ms - 4452[0m
+output generated
+[0mPOST /relationship [32m200 [0m165.309 ms - -[0m
+[0mGET /relationship [32m200 [0m3540.643 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m19.858 ms - 24412[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.376 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.374 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.994 ms - 634[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m2.987 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m3.068 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m61.597 ms - 24412[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.503 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.509 ms - 626[0m
+output generated
+[0mPUT /eightbasics?type=4&percentage=80 [32m200 [0m2.042 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.474 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m37.501 ms - 24412[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.292 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m2.946 ms - 427[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.111 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m4.072 ms - 833[0m
+output generated
+[0mPUT /eightbasics?type=3&percentage=60 [32m200 [0m1.827 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.061 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m10.957 ms - 24412[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.068 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.062 ms - 626[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.948 ms - 4452[0m
+output generated
+[0mGET /relationship [32m200 [0m1961.354 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m287.074 ms - 81387[0m
+output generated
+{
+  id: null,
+  idUser: '14074',
+  name: '3year Dharani',
+  initial: '3',
+  phone: '+918220936213',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m38.819 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.579 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m9.984 ms - 24412[0m
+output generated
+[0mGET /relationship [32m200 [0m2196.146 ms - 26[0m
+output generated
+600317
+[0mDELETE /eightbasics/600317/delete [32m200 [0m1.790 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.172 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m11.298 ms - 24210[0m
+output generated
+[0mGET /allcontacts [32m200 [0m171.721 ms - 81387[0m
+output generated
+[0mGET /relationship [32m200 [0m2291.135 ms - 26[0m
+output generated
+{
+  id: null,
+  idUser: '14074',
+  name: '3year Dharani',
+  initial: '3',
+  phone: '+918220936213',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.245 ms - -[0m
+[0mGET /allcontacts [32m200 [0m70.174 ms - 81300[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.074 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m45.802 ms - 24413[0m
+output generated
+[0mGET /relationship [32m200 [0m1892.790 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.357 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m9.016 ms - 24413[0m
+output generated
+[0mGET /relationship [32m200 [0m2174.435 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m173.592 ms - 81300[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.539 ms - -[0m
+[0mGET /relationship [32m200 [0m1974.733 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.905 ms - 24413[0m
+output generated
+[0mGET /allcontacts [32m200 [0m105.419 ms - 81300[0m
+output generated
+{
+  id: null,
+  idUser: '14753',
+  name: 'Aadhi',
+  initial: 'A',
+  phone: '709-209-7420',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.511 ms - -[0m
+[0mGET /allcontacts [32m200 [0m111.637 ms - 81222[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.734 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m9.712 ms - 24607[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.058 ms - -[0m
+[0mGET /relationship [32m200 [0m2088.547 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m388.656 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m93.877 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m10.915 ms - 24607[0m
+output generated
+[0mGET /relationship [32m200 [0m3765.014 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m100.662 ms - 81222[0m
+output generated
+{
+  id: null,
+  idUser: '14562',
+  name: 'Aaneii Mam Kings Scl',
+  initial: 'A',
+  phone: '+919952038158',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.364 ms - -[0m
+[0mGET /allcontacts [32m200 [0m64.969 ms - 81222[0m
+output generated
+{
+  id: null,
+  idUser: '14562',
+  name: 'Aaneii Mam Kings Scl',
+  initial: 'A',
+  phone: '+919952038158',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.332 ms - -[0m
+[0mGET /allcontacts [32m200 [0m59.380 ms - 81222[0m
+output generated
+{
+  id: null,
+  idUser: '14562',
+  name: 'Aaneii Mam Kings Scl',
+  initial: 'A',
+  phone: '+919952038158',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.832 ms - -[0m
+{
+  id: null,
+  idUser: '14562',
+  name: 'Aaneii Mam Kings Scl',
+  initial: 'A',
+  phone: '+919952038158',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.256 ms - -[0m
+[0mGET /allcontacts [32m200 [0m116.888 ms - 81222[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.357 ms - -[0m
+[0mGET /relationship [32m200 [0m1769.700 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m411.901 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m93.195 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m46.658 ms - 24607[0m
+output generated
+600318
+[0mDELETE /eightbasics/600318/delete [32m200 [0m1.007 ms - -[0m
+[0mGET /allcontacts [32m200 [0m59.303 ms - 81222[0m
+output generated
+[0mGET /allcontacts [32m200 [0m124.396 ms - 81222[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.575 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m8.874 ms - 24398[0m
+output generated
+[0mGET /relationship [32m200 [0m1841.994 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m60.491 ms - 81222[0m
+output generated
+{
+  id: null,
+  idUser: '14562',
+  name: 'Aaneii Mam Kings Scl',
+  initial: 'A',
+  phone: '+919952038158',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.392 ms - -[0m
+[0mGET /allcontacts [32m200 [0m99.547 ms - 81128[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.115 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m14.529 ms - 24608[0m
+output generated
+[0mGET /relationship [32m200 [0m2237.534 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.434 ms - -[0m
+[0mGET /relationship [32m200 [0m1752.774 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m98.892 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m93.569 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.814 ms - 24608[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.459 ms - -[0m
+[0mGET /relationship [32m200 [0m1556.784 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m134.439 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m93.499 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.888 ms - 24608[0m
+output generated
+[0mGET /details/detailList?name=Janani+Karasuu [32m200 [0m8.972 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Janani+Karasuu [32m200 [0m15.045 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.211 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m36.619 ms - 24608[0m
+output generated
+[0mGET /relationship [32m200 [0m2023.249 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.738 ms - -[0m
+[0mGET /relationship [32m200 [0m1828.015 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.990 ms - 24608[0m
+output generated
+[0mGET /allcontacts [32m200 [0m154.955 ms - 81128[0m
+output generated
+{
+  id: null,
+  idUser: '13889',
+  name: 'Abdul Schl Frnd New',
+  initial: 'A',
+  phone: '+919176202909',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.336 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.459 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m16.902 ms - 24608[0m
+output generated
+[0mGET /relationship [32m200 [0m1982.955 ms - 26[0m
+output generated

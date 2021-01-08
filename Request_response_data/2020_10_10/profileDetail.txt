@@ -1,0 +1,69 @@
+[
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 2,
+            "tid": 600244,
+            "name": "Commerce Gopal 12th Senior",
+            "address": "Chennai",
+            "job": "HR ",
+            "sallery": "22,000",
+            "family": "",
+            "country": "india",
+            "state": "Tamilnadu",
+            "jobtime": "10am - 7pm",
+            "place": "Chennai",
+            "created_on": "2020-03-05T15:14:57.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 2,
+            "tid": 600244,
+            "name": "Commerce Gopal 12th Senior",
+            "address": "Chennai",
+            "job": "HR ",
+            "sallery": "22,000",
+            "family": "",
+            "country": "india",
+            "state": "Tamilnadu",
+            "jobtime": "10am - 7pm",
+            "place": "Chennai",
+            "created_on": "2020-03-05T15:14:57.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

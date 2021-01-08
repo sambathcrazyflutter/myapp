@@ -1,0 +1,2 @@
+ER_DUP_ENTRY: Duplicate entry '600531' for key 'list.PRIMARY'
+ER_DUP_ENTRY: Duplicate entry '600534' for key 'calllog.PRIMARY'

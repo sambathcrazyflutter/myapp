@@ -1,0 +1,28 @@
+db connected
+[0mGET / [32m200 [0m176.699 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m862.306 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m192.943 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.848 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m108.018 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m463.585 ms - 2304[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m23.564 ms - 6992[0m
+output generated
+[0mPOST /relationship [32m200 [0m176.718 ms - -[0m
+[0mGET /relationship [32m200 [0m97.386 ms - 815[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m8.515 ms - 2304[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.759 ms - -[0m
+[0mGET /relationship [32m200 [0m16.105 ms - 815[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m5.159 ms - 2304[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m7.027 ms - 6992[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.088 ms - -[0m
+[0mGET /relationship [32m200 [0m10.484 ms - 815[0m
+output generated
+[0mGET / [32m200 [0m51.093 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m4114.198 ms - 1921[0m

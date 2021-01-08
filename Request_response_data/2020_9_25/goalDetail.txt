@@ -1,0 +1,493 @@
+[
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 16,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 48,
+            "uv": 0,
+            "plan": 2,
+            "info": 5,
+            "parable": 0,
+            "business": 0,
+            "question": 0,
+            "twentyfist": 0,
+            "copy": 0,
+            "dvd": 0,
+            "financial": 0,
+            "welcome": 0,
+            "qnet": 0,
+            "earning": "3000",
+            "dream": "KTM BIKE",
+            "week": 39,
+            "goal": 0,
+            "percentage": 16,
+            "created_on": "2020-09-25T17:28:52.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 47,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 3,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 39,
+            "goal": 1,
+            "percentage": 16,
+            "created_on": "2020-09-18T16:43:00.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 48,
+            "uv": 0,
+            "plan": 2,
+            "info": 5,
+            "parable": 0,
+            "business": 0,
+            "question": 0,
+            "twentyfist": 0,
+            "copy": 0,
+            "dvd": 0,
+            "financial": 0,
+            "welcome": 0,
+            "qnet": 0,
+            "earning": "3000",
+            "dream": "KTM BIKE",
+            "week": 39,
+            "goal": 0,
+            "percentage": 16,
+            "created_on": "2020-09-25T17:28:52.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 49,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 5,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 40,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-25T17:29:56.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 49,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 5,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 40,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-25T17:29:56.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 49,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 5,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 40,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-25T17:29:56.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 49,
+            "uv": 15,
+            "plan": 5,
+            "info": 50,
+            "parable": 0,
+            "business": 0,
+            "question": 5,
+            "twentyfist": 21,
+            "copy": 0,
+            "dvd": 5,
+            "financial": 1,
+            "welcome": 1,
+            "qnet": 1,
+            "earning": "39000",
+            "dream": "KTM Bike",
+            "week": 40,
+            "goal": 1,
+            "percentage": 0,
+            "created_on": "2020-09-25T17:29:56.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 2,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

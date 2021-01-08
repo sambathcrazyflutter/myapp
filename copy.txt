@@ -1,0 +1,250 @@
+var createError = require('http-errors');
+var express = require('express');
+var path = require('path');
+var cookieParser = require('cookie-parser');
+var logger = require('morgan');
+const cors = require('cors');
+const mongoose = require('mongoose');
+const cron = require("node-cron");
+let nodemailer = require("nodemailer");
+//require('./ftpServer');
+
+
+
+var session = require('express-session');
+var bodyParser = require('body-parser');
+
+var indexRouter = require('./routes/index');
+var loginRouter = require('./routes/login');
+var homeRouter = require('./routes/home');
+var usersRouter = require('./routes/users');
+var allContactsRouter = require('./routes/allContacts');
+var eightBasicRouter = require('./routes/t8basic');
+var relationRouter = require('./routes/relation');
+var goalRouter = require('./routes/goal');
+var one108Router = require('./routes/one108');
+var profileRouter = require('./routes/profile');
+var detailsRouter = require('./routes/details');
+var callLogRouter = require('./routes/calllog');
+var trackingRouter = require('./routes/tracking');
+var timingDetailsRouter = require('./routes/timingDetails');
+
+//const Common = require('./routes/commonFunction');
+
+require('dotenv/config');
+
+var app = express();
+
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'pug');
+
+app.use(logger('dev'));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
+app.use(session({
+	secret: 'secret',
+	resave: true,
+	saveUninitialized: true
+}));
+app.use(bodyParser.urlencoded({extended : true}));
+app.use(bodyParser.json());
+app.use(cors());
+
+app.use('/', indexRouter);
+app.use('/auth', indexRouter);
+app.use('/home', homeRouter);
+app.use('/users', usersRouter);
+app.use('/login', loginRouter);
+app.use('/allcontacts', allContactsRouter);
+app.use('/eightbasics', eightBasicRouter);
+app.use('/relationship', relationRouter);
+app.use('/goal', goalRouter);
+app.use('/details', detailsRouter);
+app.use('/profile', profileRouter);
+app.use('/calllog', callLogRouter);
+app.use('/one108', one108Router); 
+app.use('/getTrackingList', trackingRouter); 
+app.use('/getTimingDetails', timingDetailsRouter); 
+
+//var cf = new Common;
+
+// catch 404 and forward to error handler
+app.use(function(req, res, next) {
+  next(createError(404));
+});
+
+// error handler
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
+
+
+mongoose.connect(process.env.DB_CONNECTION, {
+	useNewUrlParser: true,
+	useUnifiedTopology: true 
+},()=> console.log("db connected"));
+
+// var count = 0;
+// var url =0;
+// const url_taskMap = {};
+// const task = cron.schedule('*/1 * * * * *',()=>{
+//     //Foo the bar..
+//    // Email();
+//     console.log(count+")printing data");
+//     count++;
+//     if(count >= 3){console.log("calling stop"); my_job.stop(); }
+    
+// });
+// url_taskMap[url] = task;
+// // for some condition in some code
+// let my_job = url_taskMap[url];
+// my_job.start();
+// my_job.stop();
+
+
+
+
+cron.schedule(" 0 6  * * saturday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am Saturday Inwait\n
+  1.Prepare Inwait List 
+  2.Saturday Inwait 10am. \n
+  3.Welcome Timing 7pm. \n`;
+  Email(message,file);
+
+});
+
+
+
+cron.schedule(" 0 6 * * sunday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6:00 am Sunday System \n
+  1.Conform Plan Before 8am. \n
+  2.System Time 10am.`;
+  Email(message,file);
+});
+
+
+cron.schedule(" 0 6 * * monday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am Monday Closer Day\n
+  1.Follow Closers. \n
+  2.Fix Plans. \n`;
+  Email(message,file);
+});
+
+cron.schedule(" 0 6 * * tuesday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am tuesday Clarification Day\n
+  1.Follow Closers. \n
+  2.Fix Plans. \n
+  3.Clarify douts \n`;
+  Email(message,file);
+});
+
+cron.schedule(" 0 6 * * wednesday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am wednesday Earning Day\n
+  1.Follow Closers. \n
+  2.Fix Plans. \n
+  3.Earning Day \n
+  4.Chief Message 11 am sharp`;
+  Email(message,file);
+});
+
+cron.schedule(" 0 6 * * thursday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am thursday follow Day\n
+  1.Follow Closers. \n
+  2.Fix Plans. \n`;
+  Email(message,file);
+});
+
+
+cron.schedule(" 0 6 * * friday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 6 am Friday Closing Day\n
+  1.Follow Closers. \n
+  2.Pull Hot Signup. \n
+  3.Week closes at 9:30pm .`;
+  Email(message,file);
+});
+
+
+cron.schedule(" 30 21  * * friday", function() {
+  var file = path.join(__dirname + '/sam.txt');
+  var message = `Hi there, the time is 9:30 pm Friday Week Start\n
+  1.Set Goal 9:30pm for week \n
+  2.Prepare Inwait List and Confirm`;
+  Email(message,file);
+
+});
+
+function cronvalidate() {
+  console.log("---------------------");
+  console.log("Running Cron Job");
+}
+
+function stask(count){
+
+ const task = cron.schedule('*/1 * * * * *',()=>{
+    //Foo the bar..
+   // Email();
+    console.log(count+")printing data");
+    count++;
+    if(count >= 3){console.log("calling stop"); task.stop(); }
+    
+});
+}
+
+function Email(message,sendFile){
+
+  var transporter = nodemailer.createTransport({
+    service: 'gmail',
+    host: 'smtp.gmail.com',
+    auth: {
+      user: "npmsambath@gmail.com", //generated by Mailtrap
+      pass: "9790979908" //generated by Mailtrap
+    }
+  });
+
+  transporter.verify(function(error, success) {
+    if (error) {
+        console.log(error);
+    } else {
+        console.log('Server is ready to take our messages');
+    }
+  });
+
+  let mailOptions = {
+    from: "npmsambath@gmail.com",
+    to: "donsam1997@gmail.com",
+    subject: `WEEK - 36 :Greating From Rest Server;)`,
+    text: message,
+    attachments: [
+      {   // file on disk as an attachment
+           filename: 'sample',
+           path: sendFile // stream this file
+      }
+    ]
+  };
+  transporter.sendMail(mailOptions, function(error, info) {
+    if (error) {
+      throw error;
+    } else {
+      
+      console.log("Email successfully sent!");
+    }
+  });
+
+}
+
+
+module.exports = app;

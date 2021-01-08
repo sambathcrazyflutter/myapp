@@ -1,0 +1,41 @@
+db connected
+[0mGET / [32m200 [0m60.162 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m363.028 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m69.998 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m210.628 ms - 26903[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m695.303 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m104.091 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m101.905 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m104.697 ms - 26[0m
+output generated
+{
+  id: null,
+  feeling: 'responsibility',
+  knowledge: 'biggest platform  I am part of this platform.we can utilise the ',
+  activity: '0 activity',
+  nextdayplan: 'financial plan for rubica . thanigai meet pananum . info pananum .Aruna devi closer fallow pananum',
+  goal: 'books mudikanum 15 uv 40 info',
+  nextdream: 'KTM BIKE',
+  time: null
+}
+[0mPOST /one108 [32m200 [0m159.026 ms - -[0m
+enter
+[0mGET /goal?goaltype=1 [32m200 [0m106.113 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m100.530 ms - 271[0m
+[0mGET /goal?goaltype=0 [32m200 [0m104.566 ms - 26[0m
+output generated
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m23.826 ms - 26903[0m
+output generated
+Server is ready to take our messages
+Email successfully sent!
+Server is ready to take our messages
+Email successfully sent!
+Server is ready to take our messages
+Email successfully sent!

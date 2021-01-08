@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "id": 10,
+            "tid": 600182,
+            "name": "katan 2 macha",
+            "address": "",
+            "job": "car company",
+            "sallery": "14000",
+            "family": "",
+            "country": "",
+            "state": "",
+            "jobtime": "0",
+            "place": "",
+            "created_on": "2020-04-19T10:49:30.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 10,
+            "tid": 600182,
+            "name": "katan 2 macha",
+            "address": "",
+            "job": "car company",
+            "sallery": "14000",
+            "family": "",
+            "country": "",
+            "state": "",
+            "jobtime": "0",
+            "place": "",
+            "created_on": "2020-04-19T10:49:30.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

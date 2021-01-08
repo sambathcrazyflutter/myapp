@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "id": 49,
+            "tid": 600503,
+            "name": "Harith Ready Clg",
+            "address": "guindy",
+            "job": "tcs support team . ",
+            "sallery": "",
+            "family": "",
+            "country": "",
+            "state": "",
+            "jobtime": "",
+            "place": "",
+            "created_on": "2020-09-15T01:16:35.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+][
+    [
+        {
+            "id": 49,
+            "tid": 600503,
+            "name": "Harith Ready Clg",
+            "address": "guindy",
+            "job": "tcs support team . ",
+            "sallery": "",
+            "family": "",
+            "country": "",
+            "state": "",
+            "jobtime": "",
+            "place": "",
+            "created_on": "2020-09-15T01:16:35.000Z",
+            "updated_on": null
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

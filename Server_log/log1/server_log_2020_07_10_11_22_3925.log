@@ -1,0 +1,89 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m795.928 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.847 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m84.067 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m169.123 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.162 ms - 4645[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m8.010 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m4.198 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m7.911 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m117.550 ms - 4645[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m69.183 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.866 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m42.577 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m7.275 ms - 4645[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.960 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m39.970 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.938 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.526 ms - 4645[0m
+output generated
+[0mPOST /relationship [32m200 [0m201.194 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m50.688 ms - 4645[0m
+output generated
+[0mGET /relationship [32m200 [0m2011.891 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.668 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m5.069 ms - 4644[0m
+output generated
+[0mPOST /relationship [32m200 [0m15.445 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m165.559 ms - 4645[0m
+output generated
+[0mGET /relationship [32m200 [0m1298.111 ms - 26[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m6.841 ms - 4644[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m43.373 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m14.361 ms - 4644[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.549 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m109.839 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m25.329 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.057 ms - 4644[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m59.489 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m30.691 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m32.415 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.402 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m71.494 ms - 4644[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.593 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.460 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.980 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.880 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.944 ms - 4644[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.653 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m160.599 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.104 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m93.458 ms - 4644[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.199 ms - 1247[0m
+output generated
+[0mGET /relationship [32m200 [0m3666.765 ms - 26[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m4.132 ms - 4645[0m
+output generated

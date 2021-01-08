@@ -1,0 +1,440 @@
+db connected
+[0mGET /eightbasics/getInfoList [32m200 [0m160.462 ms - 4645[0m
+output generated
+[0mPOST /relationship [32m200 [0m25.886 ms - -[0m
+[0mGET /goal?goaltype=1 [32m200 [0m1248.255 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m121.504 ms - 26[0m
+[0mGET /relationship [32m200 [0m2527.897 ms - 26[0m
+output generated
+output generated
+[0mPOST /relationship [32m200 [0m1.684 ms - -[0m
+[0mGET /relationship [32m200 [0m1433.370 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m6.652 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.355 ms - 4645[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.701 ms - -[0m
+[0mGET /eightbasics/getRejectedList [32m200 [0m5.052 ms - 1643[0m
+output generated
+[0mGET /relationship [32m200 [0m1830.233 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m44.730 ms - 4645[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.487 ms - -[0m
+[0mGET /relationship [32m200 [0m1112.883 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m4.040 ms - 1643[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m5.943 ms - 4645[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m6.149 ms - 1247[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.873 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.780 ms - 634[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.468 ms - -[0m
+[0mGET /relationship [32m200 [0m980.348 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m4.033 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m8.095 ms - 4453[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.235 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m15.491 ms - 634[0m
+output generated
+[0mGET /allcontacts [32m200 [0m481.895 ms - 76709[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m206.076 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m3.483 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m27.311 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.087 ms - 4453[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m2.765 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.035 ms - 634[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.460 ms - -[0m
+[0mGET /eightbasics/getRejectedList [32m200 [0m3.313 ms - 1643[0m
+output generated
+[0mGET /relationship [32m200 [0m1549.132 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m37.414 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m1334.212 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m97.163 ms - 26[0m
+output generated
+12020-09-012020-10-07
+[0mGET /getTimingDetails?category=1&from=2020-09-01&to=2020-10-07 [32m200 [0m102.867 ms - 4365[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m99.352 ms - 283[0m
+output generated
+22020-09-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-09-01&to=2020-10-07 [32m200 [0m50.400 ms - 830[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=4&percentage=80 [32m200 [0m1.816 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=4&percentage=80 [32m200 [0m1.375 ms - -[0m
+22020-09-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-09-01&to=2020-10-07 [32m200 [0m8.534 ms - 429[0m
+output generated
+32020-09-012020-10-07
+[0mGET /getTimingDetails?category=3&from=2020-09-01&to=2020-10-07 [32m200 [0m5.192 ms - 233[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=4&percentage=80 [32m200 [0m1.351 ms - -[0m
+32020-09-012020-10-07
+[0mGET /getTimingDetails?category=3&from=2020-09-01&to=2020-10-07 [32m200 [0m26.378 ms - 26[0m
+output generated
+32020-01-012020-10-07
+[0mGET /getTimingDetails?category=3&from=2020-01-01&to=2020-10-07 [32m200 [0m4.515 ms - 418[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=60 [32m200 [0m1.229 ms - -[0m
+12020-01-012020-10-07
+[0mGET /getTimingDetails?category=1&from=2020-01-01&to=2020-10-07 [32m200 [0m98.732 ms - 4981[0m
+output generated
+22020-01-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-01-01&to=2020-10-07 [32m200 [0m5.968 ms - 4655[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m1.352 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m1.314 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m1.276 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m1.320 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m2.123 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=3&percentage=60 [32m200 [0m1.292 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=3&percentage=60 [32m200 [0m1.960 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=5&percentage=40 [32m200 [0m1.267 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=4&percentage=80 [32m200 [0m1.348 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=4&percentage=80 [32m200 [0m2.261 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=3&percentage=60 [32m200 [0m1.359 ms - -[0m
+22020-01-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-01-01&to=2020-10-07 [32m200 [0m4.420 ms - 2435[0m
+output generated
+32020-01-012020-10-07
+[0mGET /getTimingDetails?category=3&from=2020-01-01&to=2020-10-07 [32m200 [0m4.305 ms - 828[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m5.179 ms - 1642[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m27.966 ms - 1642[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m4.167 ms - 1642[0m
+output generated
+22020-01-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-01-01&to=2020-10-07 [32m200 [0m19.175 ms - 2435[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m4.078 ms - 1642[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m5.317 ms - 1642[0m
+output generated
+42020-01-012020-10-07
+[0mGET /getTimingDetails?category=4&from=2020-01-01&to=2020-10-07 [32m200 [0m4.973 ms - 1642[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.627 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.587 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m27.895 ms - 4453[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.658 ms - -[0m
+[0mGET /relationship [32m200 [0m1649.008 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m4.849 ms - 1643[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m500.900 ms - 5157[0m
+output generated
+[0mGET /calllog [32m200 [0m564.232 ms - 20404[0m
+output generated
+[0mGET /details/detailList?name=Abdul+Schl+Frnd+New [32m200 [0m54.025 ms - 763[0m
+output generated
+[0mGET /profile/profileid?name=Abdul+Schl+Frnd+New [32m200 [0m114.862 ms - 227[0m
+output generated
+[0mGET /profile/profileid?name=Abdul+Schl+Frnd+New [32m200 [0m3.560 ms - 227[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.329 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m2.514 ms - 26[0m
+output generated
+[0mGET /allcontacts [32m200 [0m80.140 ms - 78849[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m167.342 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m110.463 ms - 26[0m
+output generated
+12020-04-012020-10-07
+[0mGET /getTimingDetails?category=1&from=2020-04-01&to=2020-10-07 [32m200 [0m7.539 ms - 4981[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m100.344 ms - 283[0m
+output generated
+22020-04-012020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-04-01&to=2020-10-07 [32m200 [0m33.087 ms - 2435[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.461 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m2.723 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m97.507 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m98.478 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m2.858 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.518 ms - -[0m
+[0mGET /calllog [32m200 [0m9.887 ms - 20404[0m
+output generated
+[0mGET /relationship [32m200 [0m1479.901 ms - 26[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m946.142 ms - 5157[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m799.758 ms - 5157[0m
+output generated
+[0mGET /profile/profileid?name=Vivek+Orrrrr [32m200 [0m12.790 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Vivek+Orrrrr [32m200 [0m21.088 ms - 689[0m
+output generated
+[0mGET /profile/profileid?name=Sabari%40 [32m200 [0m3.210 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Sabari%40 [32m200 [0m5.605 ms - 1547[0m
+output generated
+[0mGET /details/detailList?name=Thanigai [32m200 [0m2.808 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Thanigai [32m200 [0m2.948 ms - 208[0m
+output generated
+[0mGET /profile/profileid?name=Thanigai [32m200 [0m2.623 ms - 208[0m
+output generated
+[0mGET /profile/profileid?name=Bow+Bow%E2%9D%A4%EF%B8%8F [32m200 [0m3.391 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Bow+Bow%E2%9D%A4%EF%B8%8F [32m200 [0m5.891 ms - 144[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.580 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m51.683 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m6.025 ms - 4453[0m
+output generated
+[0mGET /allcontacts [32m200 [0m198.212 ms - 78849[0m
+output generated
+{
+  id: null,
+  idUser: '14024',
+  name: 'Chow3 New',
+  initial: 'C',
+  phone: '+916381264009',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m223.409 ms - -[0m
+{
+  id: null,
+  idUser: '14024',
+  name: 'Chow3 New',
+  initial: 'C',
+  phone: '+916381264009',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.533 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.641 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.535 ms - 224[0m
+output generated
+[0mGET /relationship [32m200 [0m1302.631 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Chow3+New [32m200 [0m4.834 ms - 505[0m
+[0mGET /profile/profileid?name=Chow3+New [32m200 [0m36.669 ms - 26[0m
+output generated
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.496 ms - -[0m
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.089 ms - 4652[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.530 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m2.766 ms - 26[0m
+output generated
+[0mGET /relationship [32m200 [0m970.830 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m3.999 ms - 4652[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m3715.985 ms - 283[0m
+output generated
+22020-03-042020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-03-04&to=2020-10-07 [32m200 [0m4.793 ms - 2435[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.568 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.012 ms - 4652[0m
+output generated
+600525
+[0mDELETE /eightbasics/600525/delete [32m200 [0m1.961 ms - -[0m
+[0mGET /allcontacts [32m200 [0m97.702 ms - 78849[0m
+output generated
+{
+  id: null,
+  idUser: '14024',
+  name: 'Chow3 New',
+  initial: 'C',
+  phone: '+916381264009',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.385 ms - -[0m
+{
+  id: null,
+  idUser: '14024',
+  name: 'Chow3 New',
+  initial: 'C',
+  phone: '+916381264009',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.274 ms - -[0m
+[0mGET /goal?goaltype=1 [32m200 [0m141.583 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m97.220 ms - 26[0m
+output generated
+12020-05-012020-10-07
+[0mGET /getTimingDetails?category=1&from=2020-05-01&to=2020-10-07 [32m200 [0m37.396 ms - 4981[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m101.907 ms - 283[0m
+output generated
+12020-05-012020-10-08
+[0mGET /getTimingDetails?category=1&from=2020-05-01&to=2020-10-08 [32m200 [0m7.562 ms - 5180[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=2&percentage=40 [32m200 [0m1.176 ms - -[0m
+22020-05-012020-10-08
+[0mGET /getTimingDetails?category=2&from=2020-05-01&to=2020-10-08 [32m200 [0m4.818 ms - 4053[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m2.643 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m2.863 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m33.032 ms - 224[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.497 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m2.630 ms - 224[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.278 ms - 4453[0m
+output generated
+[0mGET /relationship [32m200 [0m1667.864 ms - 26[0m
+output generated
+600160
+[0mDELETE /eightbasics/600160/delete [32m200 [0m0.942 ms - -[0m
+600160
+[0mDELETE /eightbasics/600160/delete [32m200 [0m0.912 ms - -[0m
+[0mGET /allcontacts [32m200 [0m30.352 ms - 78854[0m
+output generated
+{
+  id: null,
+  idUser: '14037',
+  name: 'Abishek Scl 10th',
+  initial: 'A',
+  phone: '944-586-1445',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.543 ms - -[0m
+{
+  id: null,
+  idUser: '14037',
+  name: 'Abishek Scl 10th',
+  initial: 'A',
+  phone: '944-586-1445',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.621 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.310 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m101.970 ms - 429[0m
+output generated
+[0mGET /relationship [32m200 [0m1751.332 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m168.485 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m100.899 ms - 26[0m
+output generated
+22020-06-072020-10-07
+[0mGET /getTimingDetails?category=2&from=2020-06-07&to=2020-10-07 [32m200 [0m45.262 ms - 2435[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m98.886 ms - 283[0m
+output generated
+[0mGET /profile/profileid?name=Abishek+Scl+10th [32m200 [0m119.394 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Abishek+Scl+10th [32m200 [0m139.590 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Merline [32m200 [0m4.218 ms - 26[0m
+[0mGET /profile/profileid?name=Merline [32m200 [0m4.623 ms - 26[0m
+output generated
+output generated
+[0mGET /details/detailList?name=Venni+Akka [32m200 [0m2.901 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Venni+Akka [32m200 [0m2.841 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Tamilrazi [32m200 [0m3.285 ms - 26[0m
+[0mGET /profile/profileid?name=Tamilrazi [32m200 [0m3.603 ms - 26[0m
+output generated
+output generated
+[0mGET /details/detailList?name=Thangaraj+Anna [32m200 [0m2.869 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Thangaraj+Anna [32m200 [0m3.466 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Dillip [32m200 [0m2.871 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Dillip [32m200 [0m4.217 ms - 26[0m
+output generated

@@ -1,0 +1,175 @@
+db connected
+Server is ready to take our messages
+Email successfully sent!
+[0mGET / [32m200 [0m44.858 ms - 1087[0m
+[0mGET / [32m200 [0m2.160 ms - 1087[0m
+[0mGET / [32m200 [0m3.613 ms - 1087[0m
+[0mGET /favicon.ico [33m404 [0m1806.394 ms - 1921[0m
+[0mGET / [32m200 [0m2.273 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m16.056 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m5.671 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m52.818 ms - 27536[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m695.140 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m115.485 ms - 264[0m
+output generated
+{
+  id: null,
+  feeling: 'excited',
+  knowledge: 'enoda a business ku nan tha elam pananum .apadi panumbothu  vara effort  oda value athigama irrukum.',
+  activity: '1 info',
+  nextdayplan: '5 info ,closing , money ready pananum',
+  goal: '3 book complete pananum . ',
+  nextdream: 'KTM Bike',
+  time: null
+}
+[0mPOST /one108 [32m200 [0m48.278 ms - -[0m
+enter
+[0mGET /goal?goaltype=1 [32m200 [0m106.894 ms - 271[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m99.814 ms - 271[0m
+[0mGET /goal?goaltype=0 [32m200 [0m99.730 ms - 264[0m
+output generated
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m103.254 ms - 264[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m99.550 ms - 264[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m99.594 ms - 264[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m41.296 ms - 1257[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m103.301 ms - 271[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m3.703 ms - 1257[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m3.692 ms - 1257[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m3.583 ms - 1257[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m4.508 ms - 1257[0m
+output generated
+82020-09-112020-09-19
+[0mGET /getTimingDetails?category=8&from=2020-09-11&to=2020-09-19 [32m200 [0m5.514 ms - 1257[0m
+output generated
+72020-09-112020-09-19
+[
+  [
+    RowDataPacket {
+      id: 43,
+      uv: 15,
+      plan: 5,
+      info: 50,
+      parable: 0,
+      business: 0,
+      question: 5,
+      twentyfist: 21,
+      copy: 0,
+      dvd: 3,
+      financial: 1,
+      welcome: 1,
+      qnet: 1,
+      earning: '39000',
+      dream: 'KTM Bike',
+      week: 38,
+      goal: 1,
+      percentage: 3,
+      created_on: 2020-09-15T21:40:11.000Z
+    }
+  ],
+  OkPacket {
+    fieldCount: 0,
+    affectedRows: 0,
+    insertId: 0,
+    serverStatus: 2,
+    warningCount: 0,
+    message: '',
+    protocol41: true,
+    changedRows: 0
+  }
+]
+[0mGET /getTimingDetails?category=7&from=2020-09-11&to=2020-09-19 [32m200 [0m5.081 ms - 271[0m
+output generated
+72020-09-112020-09-19
+[
+  [
+    RowDataPacket {
+      id: 43,
+      uv: 15,
+      plan: 5,
+      info: 50,
+      parable: 0,
+      business: 0,
+      question: 5,
+      twentyfist: 21,
+      copy: 0,
+      dvd: 3,
+      financial: 1,
+      welcome: 1,
+      qnet: 1,
+      earning: '39000',
+      dream: 'KTM Bike',
+      week: 38,
+      goal: 1,
+      percentage: 3,
+      created_on: 2020-09-15T21:40:11.000Z
+    }
+  ],
+  OkPacket {
+    fieldCount: 0,
+    affectedRows: 0,
+    insertId: 0,
+    serverStatus: 2,
+    warningCount: 0,
+    message: '',
+    protocol41: true,
+    changedRows: 0
+  }
+]
+[0mGET /getTimingDetails?category=7&from=2020-09-11&to=2020-09-19 [32m200 [0m6.882 ms - 271[0m
+output generated
+72020-09-112020-09-19
+[
+  [
+    RowDataPacket {
+      id: 43,
+      uv: 15,
+      plan: 5,
+      info: 50,
+      parable: 0,
+      business: 0,
+      question: 5,
+      twentyfist: 21,
+      copy: 0,
+      dvd: 3,
+      financial: 1,
+      welcome: 1,
+      qnet: 1,
+      earning: '39000',
+      dream: 'KTM Bike',
+      week: 38,
+      goal: 1,
+      percentage: 3,
+      created_on: 2020-09-15T21:40:11.000Z
+    }
+  ],
+  OkPacket {
+    fieldCount: 0,
+    affectedRows: 0,
+    insertId: 0,
+    serverStatus: 2,
+    warningCount: 0,
+    message: '',
+    protocol41: true,
+    changedRows: 0
+  }
+]
+[0mGET /getTimingDetails?category=7&from=2020-09-11&to=2020-09-19 [32m200 [0m3.876 ms - 271[0m
+output generated

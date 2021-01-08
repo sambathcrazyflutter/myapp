@@ -1,0 +1,4 @@
+db connected
+[0mGET /CRM/task_manager/v1/getInfoLists [33m404 [0m3598.982 ms - 1921[0m
+[0mGET /allcontacts/ [32m200 [0m10360.302 ms - 75412[0m
+output generated

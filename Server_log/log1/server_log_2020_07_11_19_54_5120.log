@@ -1,0 +1,27 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m841.010 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m194.201 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m371.182 ms - 10490[0m
+output generated
+[0mGET /allcontacts [32m200 [0m988.816 ms - 75412[0m
+output generated
+Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p15sm9607482pjv.44 - gsmtp
+    at SMTPConnection._formatError (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:1523:34)
+    at SMTPConnection.<anonymous> (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:550:26)
+    at SMTPConnection._processResponse (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:942:20)
+    at SMTPConnection._onData (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (C:\Users\sam\Desktop\js\Rest_services\myapp\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials p15sm9607482pjv.44 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}

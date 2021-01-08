@@ -1,0 +1,2 @@
+sc create "MyServer" binPath="C:\Users\sam\Desktop\js\Rest_services\myapp\Start_Server.bat" start=auto DisplayName="NPM Server"
+SC DELETE MyServer

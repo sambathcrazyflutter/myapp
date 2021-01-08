@@ -1,0 +1,59 @@
+db connected
+[0mPUT /eightbasics?type=4&percentage=80 [32m200 [0m39.320 ms - -[0m
+[0mPUT /eightbasics?type=4&percentage=80 [32m200 [0m1.602 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.808 ms - -[0m
+[0mGET /relationship [32m200 [0m12.312 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.969 ms - 1053[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m5.621 ms - 829[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m4.757 ms - 634[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m5.473 ms - 829[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m66.028 ms - 829[0m
+output generated
+[0mPUT /eightbasics?type=4&percentage=80 [32m200 [0m2.267 ms - -[0m
+[0mPUT /eightbasics?type=4&percentage=80 [32m200 [0m1.314 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.794 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.803 ms - 1053[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m6.604 ms - 4255[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.530 ms - 626[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.234 ms - 4255[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m3.722 ms - 836[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.411 ms - -[0m
+[0mGET /relationship [32m200 [0m6.709 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m4.523 ms - 1255[0m
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.666 ms - -[0m
+[0mGET /eightbasics/getInwaitList [32m200 [0m5.001 ms - 4255[0m
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.951 ms - -[0m
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.224 ms - -[0m
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.320 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.224 ms - -[0m
+[0mGET /relationship [32m200 [0m6.211 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.249 ms - 1255[0m
+output generated
+[0mGET /profile/profileid?name=Abi+New+Clg+It+B [32m200 [0m194.795 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Abi+New+Clg+It+B [32m200 [0m209.272 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Ajith+Meshack+Scl+Comerce [32m200 [0m3.410 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Ajith+Meshack+Scl+Comerce [32m200 [0m4.166 ms - 26[0m
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m1.484 ms - -[0m
+[0mGET /eightbasics/getInwaitList [32m200 [0m4.925 ms - 4457[0m
+output generated
+[0mPUT /eightbasics?type=3&percentage=60 [32m200 [0m1.421 ms - -[0m
+[0mGET /eightbasics/getPlanList [32m200 [0m3.475 ms - 828[0m
+output generated

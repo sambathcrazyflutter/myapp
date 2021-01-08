@@ -1,0 +1,22 @@
+db connected
+[0mGET /eightbasics/getInwaitList [32m200 [0m627.538 ms - 4255[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m276.621 ms - 1256[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m5.147 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m4.463 ms - 634[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.599 ms - 626[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m3.958 ms - 626[0m
+output generated
+[0mPUT /eightbasics?type=2&percentage=40 [32m200 [0m85.651 ms - -[0m
+[0mPOST /relationship [32m200 [0m3.002 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.768 ms - 1053[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m9.367 ms - 4458[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.331 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m103.567 ms - 1053[0m
+output generated

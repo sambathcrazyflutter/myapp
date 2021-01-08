@@ -1,0 +1,10 @@
+db connected
+Error: connect ETIMEDOUT 2404:6800:4003:c03::6d:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ETIMEDOUT',
+  code: 'ESOCKET',
+  syscall: 'connect',
+  address: '2404:6800:4003:c03::6d',
+  port: 465,
+  command: 'CONN'
+}

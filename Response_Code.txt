@@ -1,0 +1,98 @@
+
+200 (OK) GET , POST
+
+203 Non-Authoritative Information 
+
+204 (No Content) MUST NOT include a message-body PUT, POST, or DELETE
+
+202 (Accepted) If the action cannot be carried out immediately,  SHOULD include an indication of the request’s current status
+
+201 (Created) origin server MUST create the resource before returning the 201 status code
+
+
+304 (Not Modified)   resource has not been modified   client still has a same  previously-downloaded copy.
+
+
+400 (Bad Request) The client SHOULD NOT repeat the request without modifications.
+
+401 (Unauthorized)  It may have provided the wrong credentials or none at all. 
+
+403 (Forbidden)   the client’s request is formed correctly, but the REST API refuses to honor . Authentication will not help, and the request SHOULD NOT be repeated.    
+
+404 (Not Found)  REST API can’t map the client’s URI to a resource
+
+405 (Method Not Allowed)  A 405 response must include the Allow header, which lists the HTTP methods that the resource supports
+
+
+500 (Internal Server Error) A 500 error is never the client’s fault, and therefore, it is reasonable for the client to retry the same request
+
+
+
+GET
+
+1 - data  200 (OK) - 202 (Accepted)
+
+2 - no data  204 (No Content)
+
+3- can't  get  500 (Internal Server Error) 
+
+4 - user not exist  401 (Unauthorized)  apikey
+
+5 - login expired  403 (Forbidden) miss apikey   
+
+6 - apikey is empty
+
+7 - authorisation header is missing
+
+INSERT
+
+1 - inserted 200 (OK) - 202 (Accepted) - 201 (Created)
+
+2 - not inserted  304 (Not Modified)
+
+3 - can't  insert  500 (Internal Server Error) 
+
+4 - user not exist  401 (Unauthorized)  apikey
+
+5 - login expired  403 (Forbidden) miss apikey   
+
+6 -  apikey is empty
+
+7 - authorisation header is missing
+
+UPDATE 
+
+
+1 - updated 200 (OK) - 202 (Accepted)- 204 (No Content)  return nodata
+
+2- not updated  304 (Not Modified)
+
+3 - can't update 500 (Internal Server Error) 
+
+4 - user not exist  401 (Unauthorized)  apikey
+
+5 - login expired  403 (Forbidden) miss apikey   
+
+6 - apikey is empty
+
+7 - authorisation header is missing
+
+
+DELETE
+
+1 - deleted 200 (OK) - 202 (Accepted) - 204 (No Content) return nodata
+
+2 - not deleted  304 (Not Modified)
+
+2 - can't delete 500 (Internal Server Error) 
+
+4 - user not exist  401 (Unauthorized)  apikey
+
+5 - login expired  403 (Forbidden) miss apikey   
+
+6 - apikey is empty
+
+7 - authorisation header is missing
+
+if response data check is 1 if not (204) (No Content) GET request to indicate that the requested resource exists, but has no state representation to include in the body.
+dont send data

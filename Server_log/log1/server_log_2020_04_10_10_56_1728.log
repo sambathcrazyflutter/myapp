@@ -1,0 +1,49 @@
+db connected
+[0mGET / [32m200 [0m77.063 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m3302.696 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m295.613 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m912.898 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m66.578 ms - 4452[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m6.758 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m4.285 ms - 634[0m
+output generated
+[0mPOST /relationship [32m200 [0m533.208 ms - -[0m
+[0mGET /relationship [32m200 [0m2592.777 ms - 26[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m60.417 ms - 1643[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m631.058 ms - 5157[0m
+output generated
+[0mGET /calllog [32m200 [0m64.456 ms - 20404[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m4750.827 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m103.606 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m2.923 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m1.672 ms - -[0m
+[0mGET /goal?goaltype=1 [32m200 [0m103.057 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m103.633 ms - 26[0m
+output generated
+[0mGET /relationship [32m200 [0m1489.649 ms - 26[0m
+output generated
+62020-10-032020-10-06
+[0mGET /goal?goaltype=1 [32m200 [0m101.982 ms - 283[0m
+output generated
+[0mGET /getTimingDetails?category=6&from=2020-10-03&to=2020-10-06 [32m200 [0m138.617 ms - 26[0m
+output generated
+62020-09-192020-10-06
+[0mGET /getTimingDetails?category=6&from=2020-09-19&to=2020-10-06 [32m200 [0m4.663 ms - 2721[0m
+output generated
+[0mGET /allcontacts [32m200 [0m311.286 ms - 84521[0m
+output generated
+Server is ready to take our messages
+Email successfully sent!
+[0mGET / [32m200 [0m46.679 ms - 1087[0m
+[0mGET / [32m200 [0m4.449 ms - 1087[0m

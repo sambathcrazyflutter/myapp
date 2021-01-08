@@ -1,0 +1,10 @@
+db connected
+[0mGET / [32m200 [0m225.985 ms - 1087[0m
+Error: queryA ETIMEOUT smtp.gmail.com
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19) {
+  errno: 'ETIMEOUT',
+  code: 'EDNS',
+  syscall: 'queryA',
+  hostname: 'smtp.gmail.com',
+  command: 'CONN'
+}

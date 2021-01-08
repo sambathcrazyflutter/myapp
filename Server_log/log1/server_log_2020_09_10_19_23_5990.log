@@ -1,0 +1,97 @@
+db connected
+[0mGET /goal?goaltype=1 [32m200 [0m462.924 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m125.830 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m184.442 ms - 1256[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m57.738 ms - 4255[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m125.628 ms - 626[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m32.121 ms - 431[0m
+output generated
+[0mGET /eightbasics/getDrList [32m200 [0m97.698 ms - 236[0m
+output generated
+[0mGET /allcontacts [32m200 [0m5162.535 ms - 78217[0m
+output generated
+[0mGET /allcontacts [32m200 [0m283.721 ms - 78217[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m727.348 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m105.427 ms - 26[0m
+output generated
+42020-03-012020-10-10
+[0mGET /goal?goaltype=1 [32m200 [0m205.686 ms - 283[0m
+output generated
+[0mGET /getTimingDetails?category=4&from=2020-03-01&to=2020-10-10 [32m200 [0m1613.344 ms - 2051[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=6&percentage=80 [32m200 [0m442.189 ms - -[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m1037.191 ms - 168[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m3.273 ms - 1256[0m
+output generated
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m81.234 ms - 431[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m2.906 ms - 431[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m410.345 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m163.243 ms - 26[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m100.662 ms - 283[0m
+output generated
+5undefinedundefined
+[0mGET /getTimingDetails?category=5 [32m200 [0m6.607 ms - 26[0m
+output generated
+[0mGET /eightbasics/getDrList [32m200 [0m39.521 ms - 236[0m
+output generated
+52020-07-012020-10-10
+[0mGET /getTimingDetails?category=5&from=2020-07-01&to=2020-10-10 [32m200 [0m247.037 ms - 231[0m
+output generated
+42020-07-012020-10-10
+[0mGET /getTimingDetails?category=4&from=2020-07-01&to=2020-10-10 [32m200 [0m4.511 ms - 1845[0m
+output generated
+entering into list
+[0mPUT /eightbasics/list?type=6&percentage=80 [32m200 [0m1.518 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=6&percentage=80 [32m200 [0m1.569 ms - -[0m
+entering into list
+[0mPUT /eightbasics/list?type=6&percentage=80 [32m200 [0m1.356 ms - -[0m
+52020-07-012020-10-10
+[0mGET /getTimingDetails?category=5&from=2020-07-01&to=2020-10-10 [32m200 [0m3.644 ms - 833[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.730 ms - 1256[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1648.170 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m233.932 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m828.839 ms - 1256[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m2073.026 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m146.004 ms - 26[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m275.974 ms - 8517[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m119.817 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m101.697 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m4217.663 ms - -[0m
+[0mGET /goal?goaltype=1 [32m200 [0m15151.568 ms - 283[0m
+[0mGET /goal?goaltype=1 [32m200 [0m6363.132 ms - 283[0m
+[0mGET /eightbasics/get8basicLists [32m200 [0m6372.085 ms - 8311[0m
+output generated
+output generated
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m173.220 ms - 26[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m70.478 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m26.634 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m3.701 ms - 1256[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m5.073 ms - 8311[0m
+output generated

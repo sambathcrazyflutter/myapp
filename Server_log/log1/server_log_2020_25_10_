@@ -1,0 +1,329 @@
+db connected
+[0mGET / [32m200 [0m181.334 ms - 1087[0m
+[0mGET / [32m200 [0m1.806 ms - 1087[0m
+[0mGET /favicon.ico [33m404 [0m3261.921 ms - 1921[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m477.907 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m117.865 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m952.238 ms - 3054[0m
+output generated
+[0mGET /allcontacts [32m200 [0m398.646 ms - 79411[0m
+output generated
+{
+  id: null,
+  idUser: '14748',
+  name: 'Althab Bigbasket Join',
+  initial: 'A',
+  phone: '979-017-1890',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m173.686 ms - -[0m
+{
+  id: null,
+  idUser: '14820',
+  name: 'Almafradas Prithisha',
+  initial: 'A',
+  phone: '+919514785786',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m5.731 ms - -[0m
+{
+  id: null,
+  idUser: '14607',
+  name: 'Akshya School',
+  initial: 'A',
+  phone: '+917871996303',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m5.642 ms - -[0m
+{
+  id: null,
+  idUser: '14504',
+  name: 'Aparnaa Scl',
+  initial: 'A',
+  phone: '+918015940774',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.552 ms - -[0m
+{
+  id: null,
+  idUser: '14741',
+  name: 'Athithiyan School',
+  initial: 'A',
+  phone: '979-112-7926',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.467 ms - -[0m
+{
+  id: null,
+  idUser: '14612',
+  name: 'Badthrii Mech President Playboy Pothi',
+  initial: 'B',
+  phone: '805-622-3910',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.905 ms - -[0m
+{
+  id: null,
+  idUser: '14803',
+  name: 'Badrinath Mech Sit Balasidhart',
+  initial: 'B',
+  phone: '+917402554033',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.514 ms - -[0m
+{
+  id: null,
+  idUser: '13943',
+  name: 'Bala Mech Sidharth',
+  initial: 'B',
+  phone: '+919487438525',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.890 ms - -[0m
+{
+  id: null,
+  idUser: '14445',
+  name: 'Balaji Bigbasket Associate',
+  initial: 'B',
+  phone: '+919789015760',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m3.587 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.740 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m7.755 ms - 4954[0m
+output generated
+600067
+[0mDELETE /eightbasics/600067/delete [32m200 [0m1.565 ms - -[0m
+[0mGET /allcontacts [32m200 [0m94.023 ms - 78633[0m
+output generated
+{
+  id: null,
+  idUser: '14624',
+  name: 'Ananth Eee(aswin Frnd)',
+  initial: 'A',
+  phone: '904-720-7048',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.352 ms - -[0m
+{
+  id: null,
+  idUser: '14053',
+  name: 'Aravind Sai It',
+  initial: 'A',
+  phone: '+919551524398',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m5.327 ms - -[0m
+{
+  id: null,
+  idUser: '15453',
+  name: 'Avinashh Eee',
+  initial: 'A',
+  phone: '994-136-7499',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.435 ms - -[0m
+{
+  id: null,
+  idUser: '14208',
+  name: 'Azar Scl 5th',
+  initial: 'A',
+  phone: '+919710565970',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.368 ms - -[0m
+{
+  id: null,
+  idUser: '14024',
+  name: 'Chow3 New',
+  initial: 'C',
+  phone: '+916381264009',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m11.702 ms - -[0m
+{
+  id: null,
+  idUser: '14594',
+  name: 'Depak Scl Com Scl',
+  initial: 'D',
+  phone: '+919042628895',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.335 ms - -[0m
+{
+  id: null,
+  idUser: '14217',
+  name: 'Dinesh sai EEE',
+  initial: 'D',
+  phone: '944-262-7247',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.428 ms - -[0m
+{
+  id: null,
+  idUser: '14848',
+  name: 'Hari Krishnan Eee Gundan',
+  initial: 'H',
+  phone: '+919790187731',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.387 ms - -[0m
+{
+  id: null,
+  idUser: '14030',
+  name: 'Harith Ready Clg',
+  initial: 'H',
+  phone: '+917550150617',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.433 ms - -[0m
+[0mPOST /relationship [32m200 [0m1.266 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m41.459 ms - 6595[0m
+output generated
+[0mGET / [32m200 [0m54.869 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m184.898 ms - 1921[0m

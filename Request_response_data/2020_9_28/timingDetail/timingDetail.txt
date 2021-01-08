@@ -1,0 +1,49 @@
+[
+    [],
+    [
+        {
+            "id": 800225,
+            "idUser": "5140",
+            "name": "Lokesh School",
+            "initial": "L",
+            "phone": "801-535-7576",
+            "Email": "sam@gmail.com",
+            "relation": 0,
+            "info": 1,
+            "inwait": 0,
+            "plan": 0,
+            "closer": 0,
+            "rejected": 0,
+            "percentage": 30,
+            "created_on": "2020-09-28T13:50:42.000Z",
+            "expire_on": "2020-10-05T21:10:51.000Z"
+        },
+        {
+            "id": 800226,
+            "idUser": "5956",
+            "name": "Jayaprakash Mech Bathri Frnd Sit",
+            "initial": "J",
+            "phone": "+919385725269",
+            "Email": "sam@gmail.com",
+            "relation": 0,
+            "info": 1,
+            "inwait": 0,
+            "plan": 0,
+            "closer": 0,
+            "rejected": 0,
+            "percentage": 30,
+            "created_on": "2020-09-28T16:44:29.000Z",
+            "expire_on": "2020-10-05T22:14:29.000Z"
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

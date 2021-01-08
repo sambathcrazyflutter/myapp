@@ -1,0 +1,42 @@
+db connected
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1096.392 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com [32m200 [0m117.252 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m772.634 ms - 9697[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com [32m200 [0m2.892 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m12.290 ms - 9697[0m
+output generated
+[0mPOST /login?email=sambatharjunan%40gmail.com [32m200 [0m2.732 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.729 ms - 9697[0m
+output generated
+[0mPOST /login/getKey [32m200 [0m34.122 ms - 26[0m
+[0mPOST /login [32m200 [0m90.404 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.763 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.702 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.576 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.371 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.455 ms - 26[0m
+output generated
+[0mPOST /login [32m200 [0m2.336 ms - 26[0m
+output generated
+[0mPOST /login?password=9790979908 [32m200 [0m3.296 ms - 26[0m
+output generated
+[0mPOST /login?password=9790979908 [32m200 [0m2.380 ms - 26[0m
+output generated
+[0mPOST /login?password=9790979908 [32m200 [0m3.131 ms - 26[0m
+output generated
+[0mPOST /login?password=9790979908 [32m200 [0m2.440 ms - 26[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m1.513 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=8787 [32m200 [0m6.866 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m44.946 ms - 9697[0m
+output generated

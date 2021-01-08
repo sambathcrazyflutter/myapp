@@ -1,0 +1,66 @@
+db connected
+Server is ready to take our messages
+Email successfully sent!
+[0mGET / [32m200 [0m76.147 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m326.577 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=979097998 [32m200 [0m144.853 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m192.934 ms - 4073[0m
+output generated
+[0mGET /goal?goaltype=1 [32m200 [0m456.327 ms - 283[0m
+output generated
+[0mGET /goal?goaltype=0 [32m200 [0m143.449 ms - 26[0m
+output generated
+22019-12-012020-10-11
+[0mGET /goal?goaltype=1 [32m200 [0m103.434 ms - 283[0m
+output generated
+[0mGET /getTimingDetails?category=2&from=2019-12-01&to=2020-10-11 [32m200 [0m180.244 ms - 4053[0m
+output generated
+[0mGET /profile/profileid?name=Chow3+New [32m200 [0m95.222 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Chow3+New [32m200 [0m93.657 ms - 505[0m
+output generated
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m6059.314 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m4541.503 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m4096.757 ms - 133[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m3899.472 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m1389.364 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m1695.057 ms - 4073[0m
+output generated
+[0mPOST /relationship [32m200 [0m4232.641 ms - -[0m
+[0mGET /relationship [32m200 [0m7051.175 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m5.096 ms - 3872[0m
+output generated
+[0mGET /eightbasics/get8basicLists [32m200 [0m272.140 ms - 10927[0m
+output generated
+[0mPOST /relationship [32m200 [0m4.494 ms - -[0m
+[0mPOST /relationship [32m200 [0m253.173 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m74.582 ms - 3672[0m
+output generated
+[0mPOST /relationship [32m200 [0m2.078 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m4.466 ms - 3672[0m
+output generated
+[0mGET /relationship [32m200 [0m2815.748 ms - 26[0m
+output generated
+[0mPOST /relationship [32m200 [0m3.092 ms - -[0m
+[0mGET /eightbasics/getRejectedList [32m200 [0m74.471 ms - 1643[0m
+output generated
+[0mGET /eightbasics/getRejectedList [32m200 [0m3.567 ms - 1643[0m
+output generated
+[0mGET /relationship [32m200 [0m4144.070 ms - 26[0m
+output generated
+[0mGET /getTrackingList [32m200 [0m6777.060 ms - 7598[0m
+output generated
+[0mGET /calllog [32m200 [0m393.504 ms - 21428[0m
+output generated
+[0mGET /details/detailList?name=Commerce+Gopal+12th+Senior [32m200 [0m234.445 ms - 1361[0m
+output generated
+[0mGET /profile/profileid?name=Commerce+Gopal+12th+Senior [32m200 [0m518.770 ms - 239[0m
+output generated
+[0mGET /profile/profileid?name=Commerce+Gopal+12th+Senior [32m200 [0m5.304 ms - 239[0m
+output generated
+[0mGET / [32m200 [0m347.743 ms - 1087[0m
+[0mGET / [32m200 [0m14.508 ms - 1087[0m
+[0mGET /favicon.ico [33m404 [0m10720.587 ms - 1921[0m

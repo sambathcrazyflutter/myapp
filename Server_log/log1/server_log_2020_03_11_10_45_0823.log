@@ -1,0 +1,323 @@
+db connected
+[0mGET / [32m200 [0m61.130 ms - 1087[0m
+[0mPOST /login/getKey?email=sambatharjunan%40gmail.com [32m200 [0m776.127 ms - 133[0m
+[0mPOST /login?email=sambatharjunan%40gmail.com&password=9790979908 [32m200 [0m121.415 ms - 168[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m612.186 ms - 9071[0m
+output generated
+[0mGET /eightbasics/getInwaitList [32m200 [0m6.332 ms - 2681[0m
+output generated
+[0mGET /eightbasics/getPlanList [32m200 [0m4.699 ms - 432[0m
+output generated
+[0mGET /eightbasics/getCloserList [32m200 [0m5.070 ms - 26[0m
+output generated
+[0mGET /eightbasics/getDrList [32m200 [0m4.403 ms - 231[0m
+output generated
+[0mPOST /relationship [32m200 [0m143.504 ms - -[0m
+[0mGET /relationship [32m200 [0m2962.025 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m6.961 ms - 8655[0m
+output generated
+[0mPOST /relationship [32m200 [0m3.102 ms - -[0m
+[0mGET /relationship [32m200 [0m1231.135 ms - 26[0m
+output generated
+[0mGET /eightbasics/getInfoList [32m200 [0m7.934 ms - 8655[0m
+output generated
+[0mGET /allcontacts [32m200 [0m258.181 ms - 76424[0m
+output generated
+{
+  id: null,
+  idUser: '14822',
+  name: 'ECE Siva',
+  initial: 'E',
+  phone: '+917810859731',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m42.845 ms - -[0m
+{
+  id: null,
+  idUser: '14654',
+  name: 'Indira',
+  initial: 'I',
+  phone: '+919566293893',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.688 ms - -[0m
+{
+  id: null,
+  idUser: '14057',
+  name: 'Infosys Job',
+  initial: 'I',
+  phone: '728-690-9722',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.495 ms - -[0m
+{
+  id: null,
+  idUser: '14519',
+  name: 'IT Vijay Sai',
+  initial: 'I',
+  phone: '+918754316826',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.208 ms - -[0m
+{
+  id: null,
+  idUser: '14519',
+  name: 'IT Vijay Sai',
+  initial: 'I',
+  phone: '+918754316826',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.426 ms - -[0m
+{
+  id: null,
+  idUser: '18837',
+  name: 'K7 Civil',
+  initial: 'K',
+  phone: '+918220806543',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.492 ms - -[0m
+{
+  id: null,
+  idUser: '16240',
+  name: 'Karthi Sairam',
+  initial: 'K',
+  phone: '+917845442695',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.422 ms - -[0m
+{
+  id: null,
+  idUser: '18855',
+  name: 'Karthick Wrong Nunban New Nubr',
+  initial: 'K',
+  phone: '+919025008516',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.794 ms - -[0m
+{
+  id: null,
+  idUser: '14372',
+  name: 'Karthik Train Swiggy',
+  initial: 'K',
+  phone: '842-832-2298',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.375 ms - -[0m
+{
+  id: null,
+  idUser: '14316',
+  name: 'karti Holipricr machan',
+  initial: 'k',
+  phone: '+917904635341',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.434 ms - -[0m
+{
+  id: null,
+  idUser: '13870',
+  name: 'karti Holyprince Tuttion machan',
+  initial: 'k',
+  phone: '+917904635341',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.476 ms - -[0m
+{
+  id: null,
+  idUser: '14789',
+  name: 'Kattapa',
+  initial: 'K',
+  phone: '+919677085332',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m2.099 ms - -[0m
+{
+  id: null,
+  idUser: '14433',
+  name: 'Kattapa Mech Gunda',
+  initial: 'K',
+  phone: '+919677085332',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.547 ms - -[0m
+{
+  id: null,
+  idUser: '14358',
+  name: 'Kerthana asogan',
+  initial: 'K',
+  phone: '+919600196036',
+  email: 'sam@gmail.com',
+  info: 1,
+  inwait: 0,
+  plan: 0,
+  closer: 0,
+  rejected: 0,
+  dr: null,
+  time: null,
+  percentage: '30'
+}
+[0mPOST /eightbasics [32m200 [0m1.444 ms - -[0m
+[0mPOST /relationship [32m200 [0m2.568 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m10.067 ms - 11324[0m
+output generated
+[0mGET /relationship [32m200 [0m1318.939 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Indira [32m200 [0m101.048 ms - 26[0m
+output generated
+600098
+[0mDELETE /eightbasics/600098/delete [32m200 [0m1.664 ms - -[0m
+[0mGET /details/detailList?name=Indira [32m200 [0m6.794 ms - 26[0m
+output generated
+600101
+[0mDELETE /eightbasics/600101/delete [32m200 [0m2.843 ms - -[0m
+[0mGET /details/detailList?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m47.449 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m20.404 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.590 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.773 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.892 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.784 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.927 ms - 26[0m
+output generated
+[0mPOST /details/insertdetails [32m200 [0m2.942 ms - 8[0m
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.631 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.879 ms - 26[0m
+output generated
+[0mGET /details/detailList?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.290 ms - 212[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.692 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.896 ms - 26[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.767 ms - 26[0m
+output generated
+[0mPOST /profile/profiledetails [32m200 [0m1.514 ms - -[0m
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m3.136 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.894 ms - 198[0m
+output generated
+[0mGET /profile/profileid?name=Karthick+Wrong+Nunban+New+Nubr [32m200 [0m2.928 ms - 198[0m
+output generated
+[0mPOST /relationship [32m200 [0m6.100 ms - -[0m
+[0mGET /eightbasics/getInfoList [32m200 [0m8.286 ms - 10921[0m
+output generated
+[0mGET /relationship [32m200 [0m1839.515 ms - 26[0m
+output generated
+[0mGET / [32m200 [0m67.187 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m5383.496 ms - 1921[0m
+[0mGET / [32m200 [0m2.270 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m17.025 ms - 1921[0m
+[0mGET / [32m200 [0m2.366 ms - 1087[0m
+[0mGET /HNAP1/ [33m404 [0m15.793 ms - 1921[0m

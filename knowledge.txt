@@ -1,0 +1,48 @@
+
+
+const methodNotAllowed = (request, response, next) =>  response.send(405, `The ${request.method} method for the "${request.originalUrl}" route is not supported. \n > GET method only suported`);
+  
+
+const methods = (methods) => (request, response, next) => {
+    if (methods.includes(request.method))
+    {
+         return next();
+    }else{
+    response.send(405, `The ${request.method} method for the "${request.originalUrl}" route is not supported. \n > GET method only suported`);
+   return response.end();
+    }
+};
+
+//default
+router.all('/' ,methods([`GET`, `PUT`]), verifyapiKey , callog_controller.getCallLog);
+
+// defined
+//router.all('/' ,methods([`GET`, `PUT`]), verifyapiKey , callog_controller.getCallLog);
+
+
+router
+.route('/')
+.get(verifyapiKey , callog_controller.getCallLog)
+.all(methodNotAllowed);
+
+
+----------->>>>>>>>>>>>>> END
+
+
+
+
+
+const handlers = require(`./handlers.js`);
+
+// The 405 handler
+const methodNotAllowed = (req, res, next) => res.status(405).send();
+
+router
+.route(`/products`)
+.get(handlers.getProduct)
+.put(handlers.addProduct)
+.all(methodNotAllowed);
+
+
+
+----------->>>>>>>>>>>>>> END

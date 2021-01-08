@@ -1,0 +1,9 @@
+db connected
+Error: getaddrinfo ENOTFOUND smtp.gmail.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26) {
+  errno: 'ENOTFOUND',
+  code: 'EDNS',
+  syscall: 'getaddrinfo',
+  hostname: 'smtp.gmail.com',
+  command: 'CONN'
+}
