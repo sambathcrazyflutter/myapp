@@ -1,5 +1,0 @@
-db connected
-[0mGET http://example.com/ [32m200 [0m1205.149 ms - 1087[0m
-[0mGET / [0m- [0m- ms - -[0m
-[0mGET / [32m200 [0m65.105 ms - 1087[0m
-[0mGET /HNAP1/ [33m404 [0m4528.730 ms - 1921[0m

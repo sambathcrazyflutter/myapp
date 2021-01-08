@@ -1,6 +1,0 @@
-\connect root@localhost:3306/calldata
- show Databases;
- use calldata;
- ALTER USER 'root'@'localhost' IDENTIFIED BY 'durai';
- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'durai';
- FLUSH PRIVILEGES;
